@@ -11,7 +11,7 @@ static const int ALERT_CONSECUTIVE = 3;  // frames to trigger sustained alert
 static const int LED_PIN = 2;            // built-in LED on most ESP32 boards
 
 void setup() {
-    Serial.begin(115200);
+    Serial.begin(921600);
     while (!Serial) { delay(10); }
 
     Serial.println("========================================");
