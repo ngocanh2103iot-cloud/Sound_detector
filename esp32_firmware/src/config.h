@@ -15,5 +15,6 @@
 #define n_mfcc 13
 #define num_samples 16000
 #define num_frames 61
+#define SLIDING_STEP 8000 // 0.5s sliding window
 
 #define FEATURE_COUNT 39
