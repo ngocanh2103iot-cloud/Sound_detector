@@ -1,0 +1,17 @@
+numpy
+pandas  
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+keras
+xgboost
+lightgbm
+catboost
+statsmodels
+nltk
+spacy
+gensim
+wordcloud
+librosa
+opencv-python

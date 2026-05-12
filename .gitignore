@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+
+# Datasets (Large files)
+dataset/
+dataset_raw/
+Library Dataset/
+Library Dataset.zip
+UrbanSound8K/
+UrbanSound8K.tar.gz
+UrbanSound8K_README.txt
+
+# PlatformIO & VSCode
+.pio/
+.vscode/
+.gemini/
+
+# OS files
+.DS_Store
+Thumbs.db
