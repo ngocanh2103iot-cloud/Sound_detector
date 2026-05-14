@@ -1,0 +1,595 @@
+host_time,elapsed_s,case,device_label,score,feat_ms,infer_ms,alert_count,raw_line
+2026-05-12T12:39:38.951294+00:00,1.484,normal_room,NORMAL,22.7369,32,27,0,[NORMAL] score=22.7369 | feat=32ms infer=27ms
+2026-05-12T12:39:39.431137+00:00,1.969,normal_room,NORMAL,8.2809,32,27,0,[NORMAL] score=8.2809 | feat=32ms infer=27ms
+2026-05-12T12:39:39.941358+00:00,2.469,normal_room,NORMAL,13.4773,33,26,0,[NORMAL] score=13.4773 | feat=33ms infer=26ms
+2026-05-12T12:39:40.452567+00:00,2.984,normal_room,NORMAL,15.9333,33,26,0,[NORMAL] score=15.9333 | feat=33ms infer=26ms
+2026-05-12T12:39:40.931498+00:00,3.469,normal_room,ABNORMAL,-10.0945,32,27,0,[ABNORMAL] score=-10.0945 | feat=32ms infer=27ms
+2026-05-12T12:39:41.442159+00:00,3.969,normal_room,ABNORMAL,-25.154,32,27,0,[ABNORMAL] score=-25.1540 | feat=32ms infer=27ms
+2026-05-12T12:39:41.953699+00:00,4.484,normal_room,ABNORMAL,-24.3026,32,27,3,[ABNORMAL] score=-24.3026 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:39:42.432513+00:00,4.969,normal_room,ABNORMAL,-20.8277,32,27,4,[ABNORMAL] score=-20.8277 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:39:42.944347+00:00,5.484,normal_room,ABNORMAL,-18.6104,32,27,5,[ABNORMAL] score=-18.6104 | feat=32ms infer=27ms *** ALERT (5 consecutive) ***
+2026-05-12T12:39:43.454041+00:00,5.984,normal_room,NORMAL,19.1592,32,27,0,[NORMAL] score=19.1592 | feat=32ms infer=27ms
+2026-05-12T12:39:43.934282+00:00,6.469,normal_room,ABNORMAL,-17.3846,33,26,0,[ABNORMAL] score=-17.3846 | feat=33ms infer=26ms
+2026-05-12T12:39:44.444759+00:00,6.984,normal_room,ABNORMAL,-25.1501,32,27,0,[ABNORMAL] score=-25.1501 | feat=32ms infer=27ms
+2026-05-12T12:39:44.956796+00:00,7.484,normal_room,ABNORMAL,-25.2571,32,27,3,[ABNORMAL] score=-25.2571 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:39:45.436171+00:00,7.969,normal_room,ABNORMAL,-15.4858,33,26,4,[ABNORMAL] score=-15.4858 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:39:45.946358+00:00,8.484,normal_room,NORMAL,25.6344,32,27,0,[NORMAL] score=25.6344 | feat=32ms infer=27ms
+2026-05-12T12:39:46.456595+00:00,8.984,normal_room,NORMAL,18.5228,32,27,0,[NORMAL] score=18.5228 | feat=32ms infer=27ms
+2026-05-12T12:39:46.936232+00:00,9.469,normal_room,NORMAL,13.0645,33,26,0,[NORMAL] score=13.0645 | feat=33ms infer=26ms
+2026-05-12T12:39:47.446586+00:00,9.984,normal_room,NORMAL,15.424,32,27,0,[NORMAL] score=15.4240 | feat=32ms infer=27ms
+2026-05-12T12:39:47.958172+00:00,10.484,normal_room,ABNORMAL,-15.2663,32,27,0,[ABNORMAL] score=-15.2663 | feat=32ms infer=27ms
+2026-05-12T12:39:48.437087+00:00,10.969,normal_room,ABNORMAL,-18.4177,33,26,0,[ABNORMAL] score=-18.4177 | feat=33ms infer=26ms
+2026-05-12T12:39:48.948593+00:00,11.484,normal_room,ABNORMAL,-18.6194,33,26,3,[ABNORMAL] score=-18.6194 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:39:49.459207+00:00,12.000,normal_room,ABNORMAL,-24.7254,33,26,4,[ABNORMAL] score=-24.7254 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:39:49.938955+00:00,12.469,normal_room,ABNORMAL,-21.0642,33,26,5,[ABNORMAL] score=-21.0642 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:39:50.449484+00:00,12.984,normal_room,NORMAL,4.1216,33,26,0,[NORMAL] score=4.1216 | feat=33ms infer=26ms
+2026-05-12T12:39:50.960243+00:00,13.500,normal_room,NORMAL,5.1127,33,26,0,[NORMAL] score=5.1127 | feat=33ms infer=26ms
+2026-05-12T12:39:51.439347+00:00,13.969,normal_room,NORMAL,4.4064,33,26,0,[NORMAL] score=4.4064 | feat=33ms infer=26ms
+2026-05-12T12:39:51.949624+00:00,14.484,normal_room,NORMAL,11.3172,33,26,0,[NORMAL] score=11.3172 | feat=33ms infer=26ms
+2026-05-12T12:39:52.461460+00:00,15.000,normal_room,ABNORMAL,-16.1696,33,26,0,[ABNORMAL] score=-16.1696 | feat=33ms infer=26ms
+2026-05-12T12:39:52.940174+00:00,15.469,normal_room,ABNORMAL,-18.7116,33,26,0,[ABNORMAL] score=-18.7116 | feat=33ms infer=26ms
+2026-05-12T12:39:53.452462+00:00,15.984,normal_room,ABNORMAL,-19.6644,33,26,3,[ABNORMAL] score=-19.6644 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:39:53.931213+00:00,16.469,normal_room,ABNORMAL,-23.5518,33,26,4,[ABNORMAL] score=-23.5518 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:39:54.442172+00:00,16.969,normal_room,ABNORMAL,-25.0163,33,26,5,[ABNORMAL] score=-25.0163 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:39:54.952976+00:00,17.484,normal_room,ABNORMAL,-24.5066,33,26,6,[ABNORMAL] score=-24.5066 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:39:55.432825+00:00,17.969,normal_room,ABNORMAL,-23.2005,33,26,7,[ABNORMAL] score=-23.2005 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:39:55.943305+00:00,18.469,normal_room,ABNORMAL,-22.4865,33,26,8,[ABNORMAL] score=-22.4865 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:39:56.454304+00:00,18.984,normal_room,ABNORMAL,-18.3967,33,26,9,[ABNORMAL] score=-18.3967 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:39:56.932655+00:00,19.469,normal_room,NORMAL,11.4789,33,26,0,[NORMAL] score=11.4789 | feat=33ms infer=26ms
+2026-05-12T12:39:57.443487+00:00,19.969,normal_room,ABNORMAL,-20.3577,33,26,0,[ABNORMAL] score=-20.3577 | feat=33ms infer=26ms
+2026-05-12T12:39:57.954935+00:00,20.484,normal_room,ABNORMAL,-24.2225,33,26,0,[ABNORMAL] score=-24.2225 | feat=33ms infer=26ms
+2026-05-12T12:39:58.435370+00:00,20.969,normal_room,ABNORMAL,-25.0785,33,26,3,[ABNORMAL] score=-25.0785 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:39:58.944977+00:00,21.484,normal_room,ABNORMAL,-23.5789,33,26,4,[ABNORMAL] score=-23.5789 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:39:59.457118+00:00,21.984,normal_room,ABNORMAL,-20.8512,33,26,5,[ABNORMAL] score=-20.8512 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:39:59.935253+00:00,22.469,normal_room,ABNORMAL,-21.7066,32,27,6,[ABNORMAL] score=-21.7066 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:40:00.446307+00:00,22.984,normal_room,ABNORMAL,-24.8164,33,26,7,[ABNORMAL] score=-24.8164 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:40:00.957585+00:00,23.484,normal_room,ABNORMAL,-24.4107,33,26,8,[ABNORMAL] score=-24.4107 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:40:01.436868+00:00,23.969,normal_room,ABNORMAL,-17.5786,32,27,9,[ABNORMAL] score=-17.5786 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:40:01.947194+00:00,24.484,normal_room,ABNORMAL,-20.8216,33,26,10,[ABNORMAL] score=-20.8216 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:40:02.457893+00:00,24.984,normal_room,ABNORMAL,-18.5658,33,26,11,[ABNORMAL] score=-18.5658 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:40:02.936531+00:00,25.469,normal_room,NORMAL,16.1984,32,27,0,[NORMAL] score=16.1984 | feat=32ms infer=27ms
+2026-05-12T12:40:03.447839+00:00,25.984,normal_room,NORMAL,7.8031,33,26,0,[NORMAL] score=7.8031 | feat=33ms infer=26ms
+2026-05-12T12:40:03.958120+00:00,26.484,normal_room,ABNORMAL,-19.56,33,26,0,[ABNORMAL] score=-19.5600 | feat=33ms infer=26ms
+2026-05-12T12:40:04.439012+00:00,26.969,normal_room,ABNORMAL,-25.3751,32,27,0,[ABNORMAL] score=-25.3751 | feat=32ms infer=27ms
+2026-05-12T12:40:04.949055+00:00,27.484,normal_room,ABNORMAL,-25.2663,32,27,3,[ABNORMAL] score=-25.2663 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:40:05.460559+00:00,28.000,normal_room,ABNORMAL,-8.0763,32,27,4,[ABNORMAL] score=-8.0763 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:40:05.938957+00:00,28.469,normal_room,NORMAL,9.4604,32,27,0,[NORMAL] score=9.4604 | feat=32ms infer=27ms
+2026-05-12T12:40:06.448848+00:00,28.984,normal_room,ABNORMAL,-23.4723,32,27,0,[ABNORMAL] score=-23.4723 | feat=32ms infer=27ms
+2026-05-12T12:40:06.961777+00:00,29.500,normal_room,ABNORMAL,-25.0609,32,27,0,[ABNORMAL] score=-25.0609 | feat=32ms infer=27ms
+2026-05-12T12:40:07.441515+00:00,29.969,normal_room,ABNORMAL,-24.744,33,26,3,[ABNORMAL] score=-24.7440 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:40:07.951354+00:00,30.484,normal_room,ABNORMAL,-25.3521,32,27,4,[ABNORMAL] score=-25.3521 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:40:08.430677+00:00,30.969,normal_room,ABNORMAL,-25.3692,33,26,5,[ABNORMAL] score=-25.3692 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:40:08.942412+00:00,31.469,normal_room,ABNORMAL,-24.8567,33,26,6,[ABNORMAL] score=-24.8567 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:40:09.453311+00:00,31.984,normal_room,ABNORMAL,-23.231,32,27,7,[ABNORMAL] score=-23.2310 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:40:09.930860+00:00,32.469,normal_room,NORMAL,16.0569,33,26,0,[NORMAL] score=16.0569 | feat=33ms infer=26ms
+2026-05-12T12:40:10.952535+00:00,33.484,normal_room,ABNORMAL,-25.3126,32,27,0,[ABNORMAL] score=-25.3126 | feat=32ms infer=27ms
+2026-05-12T12:40:11.432678+00:00,33.969,normal_room,ABNORMAL,-25.1647,33,26,3,[ABNORMAL] score=-25.1647 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:40:11.944344+00:00,34.484,normal_room,ABNORMAL,-24.7232,33,26,4,[ABNORMAL] score=-24.7232 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:40:12.455690+00:00,34.984,normal_room,ABNORMAL,-25.0,33,26,5,[ABNORMAL] score=-25.0000 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:40:12.934530+00:00,35.469,normal_room,ABNORMAL,-24.8107,33,26,6,[ABNORMAL] score=-24.8107 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:40:13.444886+00:00,35.984,normal_room,NORMAL,11.5877,33,26,0,[NORMAL] score=11.5877 | feat=33ms infer=26ms
+2026-05-12T12:40:13.955016+00:00,36.484,normal_room,NORMAL,6.1007,33,26,0,[NORMAL] score=6.1007 | feat=33ms infer=26ms
+2026-05-12T12:40:14.434612+00:00,36.969,normal_room,ABNORMAL,-24.8905,33,26,0,[ABNORMAL] score=-24.8905 | feat=33ms infer=26ms
+2026-05-12T12:40:14.946100+00:00,37.484,normal_room,ABNORMAL,-22.7906,33,26,0,[ABNORMAL] score=-22.7906 | feat=33ms infer=26ms
+2026-05-12T12:40:15.457101+00:00,37.984,normal_room,ABNORMAL,-21.2975,33,26,3,[ABNORMAL] score=-21.2975 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:40:15.936781+00:00,38.469,normal_room,ABNORMAL,-24.9741,33,26,4,[ABNORMAL] score=-24.9741 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:40:16.446826+00:00,38.984,normal_room,ABNORMAL,-24.5531,33,26,5,[ABNORMAL] score=-24.5531 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:40:16.957851+00:00,39.484,normal_room,NORMAL,22.0801,33,26,0,[NORMAL] score=22.0801 | feat=33ms infer=26ms
+2026-05-12T12:40:17.436890+00:00,39.969,normal_room,NORMAL,27.3905,33,26,0,[NORMAL] score=27.3905 | feat=33ms infer=26ms
+2026-05-12T12:40:17.947646+00:00,40.484,normal_room,ABNORMAL,-18.3456,33,26,0,[ABNORMAL] score=-18.3456 | feat=33ms infer=26ms
+2026-05-12T12:40:18.458154+00:00,40.984,normal_room,ABNORMAL,-20.956,33,26,0,[ABNORMAL] score=-20.9560 | feat=33ms infer=26ms
+2026-05-12T12:40:18.939354+00:00,41.469,normal_room,ABNORMAL,-22.7675,33,26,3,[ABNORMAL] score=-22.7675 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:40:19.449697+00:00,41.984,normal_room,ABNORMAL,-22.5607,33,26,4,[ABNORMAL] score=-22.5607 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:40:19.960444+00:00,42.500,normal_room,ABNORMAL,-24.3453,33,26,5,[ABNORMAL] score=-24.3453 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:40:20.440417+00:00,42.969,normal_room,ABNORMAL,-22.8794,33,26,6,[ABNORMAL] score=-22.8794 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:40:20.949525+00:00,43.484,normal_room,UNCERTAIN,4.0007,33,26,6,[UNCERTAIN] score=4.0007 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:40:21.461230+00:00,44.000,normal_room,NORMAL,12.2131,33,26,0,[NORMAL] score=12.2131 | feat=33ms infer=26ms
+2026-05-12T12:40:21.940242+00:00,44.469,normal_room,NORMAL,11.0398,33,26,0,[NORMAL] score=11.0398 | feat=33ms infer=26ms
+2026-05-12T12:40:22.450788+00:00,44.984,normal_room,NORMAL,7.7257,33,26,0,[NORMAL] score=7.7257 | feat=33ms infer=26ms
+2026-05-12T12:40:22.961340+00:00,45.500,normal_room,NORMAL,12.0971,33,26,0,[NORMAL] score=12.0971 | feat=33ms infer=26ms
+2026-05-12T12:40:23.441360+00:00,45.969,normal_room,NORMAL,17.9237,32,27,0,[NORMAL] score=17.9237 | feat=32ms infer=27ms
+2026-05-12T12:40:23.952273+00:00,46.484,normal_room,NORMAL,13.3835,33,26,0,[NORMAL] score=13.3835 | feat=33ms infer=26ms
+2026-05-12T12:40:24.430819+00:00,46.969,normal_room,NORMAL,10.4016,32,27,0,[NORMAL] score=10.4016 | feat=32ms infer=27ms
+2026-05-12T12:40:24.942268+00:00,47.469,normal_room,NORMAL,22.4,33,26,0,[NORMAL] score=22.4000 | feat=33ms infer=26ms
+2026-05-12T12:40:25.453615+00:00,47.984,normal_room,ABNORMAL,-24.1633,33,26,0,[ABNORMAL] score=-24.1633 | feat=33ms infer=26ms
+2026-05-12T12:40:25.932437+00:00,48.469,normal_room,ABNORMAL,-24.9688,32,27,0,[ABNORMAL] score=-24.9688 | feat=32ms infer=27ms
+2026-05-12T12:40:26.444237+00:00,48.984,normal_room,ABNORMAL,-23.6979,33,26,3,[ABNORMAL] score=-23.6979 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:40:26.955206+00:00,49.484,normal_room,ABNORMAL,-23.3866,33,26,4,[ABNORMAL] score=-23.3866 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:40:27.434274+00:00,49.969,normal_room,ABNORMAL,-22.8791,32,27,5,[ABNORMAL] score=-22.8791 | feat=32ms infer=27ms *** ALERT (5 consecutive) ***
+2026-05-12T12:40:27.943858+00:00,50.484,normal_room,ABNORMAL,-20.7848,32,27,6,[ABNORMAL] score=-20.7848 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:40:28.455870+00:00,50.984,normal_room,ABNORMAL,-2.7799,32,27,7,[ABNORMAL] score=-2.7799 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:40:28.935387+00:00,51.469,normal_room,ABNORMAL,-2.3421,32,27,8,[ABNORMAL] score=-2.3421 | feat=32ms infer=27ms *** ALERT (8 consecutive) ***
+2026-05-12T12:40:29.446516+00:00,51.984,normal_room,ABNORMAL,-11.5494,32,27,9,[ABNORMAL] score=-11.5494 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:40:29.956815+00:00,52.484,normal_room,ABNORMAL,-25.3838,32,27,10,[ABNORMAL] score=-25.3838 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:40:30.436662+00:00,52.969,normal_room,ABNORMAL,-25.2863,33,26,11,[ABNORMAL] score=-25.2863 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:40:30.946978+00:00,53.484,normal_room,ABNORMAL,-7.8172,32,27,12,[ABNORMAL] score=-7.8172 | feat=32ms infer=27ms *** ALERT (12 consecutive) ***
+2026-05-12T12:40:31.456860+00:00,53.984,normal_room,NORMAL,12.0622,32,27,0,[NORMAL] score=12.0622 | feat=32ms infer=27ms
+2026-05-12T12:40:31.936835+00:00,54.469,normal_room,NORMAL,13.7824,33,26,0,[NORMAL] score=13.7824 | feat=33ms infer=26ms
+2026-05-12T12:40:32.448014+00:00,54.984,normal_room,NORMAL,10.6077,32,27,0,[NORMAL] score=10.6077 | feat=32ms infer=27ms
+2026-05-12T12:40:32.957997+00:00,55.484,normal_room,NORMAL,6.1023,32,27,0,[NORMAL] score=6.1023 | feat=32ms infer=27ms
+2026-05-12T12:40:33.437507+00:00,55.969,normal_room,NORMAL,8.8303,33,26,0,[NORMAL] score=8.8303 | feat=33ms infer=26ms
+2026-05-12T12:40:33.948873+00:00,56.484,normal_room,NORMAL,10.0378,32,27,0,[NORMAL] score=10.0378 | feat=32ms infer=27ms
+2026-05-12T12:40:34.459236+00:00,57.000,normal_room,NORMAL,9.1076,32,27,0,[NORMAL] score=9.1076 | feat=32ms infer=27ms
+2026-05-12T12:40:34.938894+00:00,57.469,normal_room,UNCERTAIN,0.9424,33,26,0,[UNCERTAIN] score=0.9424 | feat=33ms infer=26ms
+2026-05-12T12:40:35.450845+00:00,57.984,normal_room,ABNORMAL,-22.0338,33,26,0,[ABNORMAL] score=-22.0338 | feat=33ms infer=26ms
+2026-05-12T12:40:35.960490+00:00,58.500,normal_room,ABNORMAL,-19.8816,33,26,0,[ABNORMAL] score=-19.8816 | feat=33ms infer=26ms
+2026-05-12T12:40:36.440419+00:00,58.969,normal_room,ABNORMAL,-15.8014,33,26,3,[ABNORMAL] score=-15.8014 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:40:36.951994+00:00,59.484,normal_room,ABNORMAL,-19.3586,33,26,4,[ABNORMAL] score=-19.3586 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:40:37.462562+00:00,60.000,normal_room,ABNORMAL,-18.9284,33,26,5,[ABNORMAL] score=-18.9284 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:40:37.942301+00:00,60.469,normal_room,ABNORMAL,-17.661,33,26,6,[ABNORMAL] score=-17.6610 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:40:38.452547+00:00,60.984,normal_room,ABNORMAL,-16.6466,33,26,7,[ABNORMAL] score=-16.6466 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:40:38.932694+00:00,61.469,normal_room,ABNORMAL,-12.9886,33,26,8,[ABNORMAL] score=-12.9886 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:40:39.441951+00:00,61.969,normal_room,NORMAL,15.084,33,26,0,[NORMAL] score=15.0840 | feat=33ms infer=26ms
+2026-05-12T12:40:39.953198+00:00,62.484,normal_room,NORMAL,14.5151,33,26,0,[NORMAL] score=14.5151 | feat=33ms infer=26ms
+2026-05-12T12:40:40.432354+00:00,62.969,normal_room,NORMAL,19.9483,33,26,0,[NORMAL] score=19.9483 | feat=33ms infer=26ms
+2026-05-12T12:40:40.942877+00:00,63.469,normal_room,NORMAL,17.4277,33,26,0,[NORMAL] score=17.4277 | feat=33ms infer=26ms
+2026-05-12T12:40:41.454624+00:00,63.984,normal_room,NORMAL,9.3933,33,26,0,[NORMAL] score=9.3933 | feat=33ms infer=26ms
+2026-05-12T12:40:41.933136+00:00,64.469,normal_room,NORMAL,5.0052,33,26,0,[NORMAL] score=5.0052 | feat=33ms infer=26ms
+2026-05-12T12:40:42.443331+00:00,64.969,normal_room,NORMAL,9.146,33,26,0,[NORMAL] score=9.1460 | feat=33ms infer=26ms
+2026-05-12T12:40:42.955596+00:00,65.484,normal_room,NORMAL,9.7018,33,26,0,[NORMAL] score=9.7018 | feat=33ms infer=26ms
+2026-05-12T12:40:43.434138+00:00,65.969,normal_room,NORMAL,7.7527,33,26,0,[NORMAL] score=7.7527 | feat=33ms infer=26ms
+2026-05-12T12:40:43.944991+00:00,66.484,normal_room,NORMAL,7.2242,33,26,0,[NORMAL] score=7.2242 | feat=33ms infer=26ms
+2026-05-12T12:40:44.456623+00:00,66.984,normal_room,NORMAL,8.599,33,26,0,[NORMAL] score=8.5990 | feat=33ms infer=26ms
+2026-05-12T12:40:44.935713+00:00,67.469,normal_room,NORMAL,14.7369,33,26,0,[NORMAL] score=14.7369 | feat=33ms infer=26ms
+2026-05-12T12:40:45.446252+00:00,67.984,normal_room,UNCERTAIN,2.7668,33,26,0,[UNCERTAIN] score=2.7668 | feat=33ms infer=26ms
+2026-05-12T12:40:45.956753+00:00,68.484,normal_room,NORMAL,6.1152,33,26,0,[NORMAL] score=6.1152 | feat=33ms infer=26ms
+2026-05-12T12:40:46.436704+00:00,68.969,normal_room,UNCERTAIN,3.1211,32,27,0,[UNCERTAIN] score=3.1211 | feat=32ms infer=27ms
+2026-05-12T12:40:46.946597+00:00,69.484,normal_room,NORMAL,20.5845,33,26,0,[NORMAL] score=20.5845 | feat=33ms infer=26ms
+2026-05-12T12:40:47.457978+00:00,69.984,normal_room,NORMAL,14.0313,33,26,0,[NORMAL] score=14.0313 | feat=33ms infer=26ms
+2026-05-12T12:40:47.937220+00:00,70.469,normal_room,UNCERTAIN,2.203,32,27,0,[UNCERTAIN] score=2.2030 | feat=32ms infer=27ms
+2026-05-12T12:40:48.447676+00:00,70.984,normal_room,UNCERTAIN,0.5183,33,26,0,[UNCERTAIN] score=0.5183 | feat=33ms infer=26ms
+2026-05-12T12:40:48.959233+00:00,71.500,normal_room,ABNORMAL,-8.2569,33,26,0,[ABNORMAL] score=-8.2569 | feat=33ms infer=26ms
+2026-05-12T12:40:49.439045+00:00,71.969,normal_room,NORMAL,4.8231,32,27,0,[NORMAL] score=4.8231 | feat=32ms infer=27ms
+2026-05-12T12:40:49.948791+00:00,72.484,normal_room,NORMAL,19.6811,33,26,0,[NORMAL] score=19.6811 | feat=33ms infer=26ms
+2026-05-12T12:40:50.460975+00:00,73.000,normal_room,NORMAL,20.4375,33,26,0,[NORMAL] score=20.4375 | feat=33ms infer=26ms
+2026-05-12T12:40:50.939550+00:00,73.469,normal_room,NORMAL,18.8366,32,27,0,[NORMAL] score=18.8366 | feat=32ms infer=27ms
+2026-05-12T12:40:51.451037+00:00,73.984,normal_room,NORMAL,15.7932,32,27,0,[NORMAL] score=15.7932 | feat=32ms infer=27ms
+2026-05-12T12:40:51.961529+00:00,74.500,normal_room,NORMAL,6.1072,32,27,0,[NORMAL] score=6.1072 | feat=32ms infer=27ms
+2026-05-12T12:40:52.440675+00:00,74.969,normal_room,NORMAL,8.9825,32,27,0,[NORMAL] score=8.9825 | feat=32ms infer=27ms
+2026-05-12T12:40:52.951263+00:00,75.484,normal_room,NORMAL,16.0767,32,27,0,[NORMAL] score=16.0767 | feat=32ms infer=27ms
+2026-05-12T12:40:53.430424+00:00,75.969,normal_room,NORMAL,25.5821,33,26,0,[NORMAL] score=25.5821 | feat=33ms infer=26ms
+2026-05-12T12:40:53.942251+00:00,76.469,normal_room,NORMAL,5.8788,33,26,0,[NORMAL] score=5.8788 | feat=33ms infer=26ms
+2026-05-12T12:40:54.452505+00:00,76.984,normal_room,NORMAL,7.5868,32,27,0,[NORMAL] score=7.5868 | feat=32ms infer=27ms
+2026-05-12T12:40:54.930908+00:00,77.469,normal_room,NORMAL,12.318,33,26,0,[NORMAL] score=12.3180 | feat=33ms infer=26ms
+2026-05-12T12:40:55.443240+00:00,77.969,normal_room,NORMAL,20.7725,32,27,0,[NORMAL] score=20.7725 | feat=32ms infer=27ms
+2026-05-12T12:40:55.954337+00:00,78.484,normal_room,NORMAL,11.5078,32,27,0,[NORMAL] score=11.5078 | feat=32ms infer=27ms
+2026-05-12T12:40:56.432551+00:00,78.969,normal_room,NORMAL,14.4613,33,26,0,[NORMAL] score=14.4613 | feat=33ms infer=26ms
+2026-05-12T12:40:56.944137+00:00,79.484,normal_room,UNCERTAIN,1.93,32,27,0,[UNCERTAIN] score=1.9300 | feat=32ms infer=27ms
+2026-05-12T12:40:57.455425+00:00,79.984,normal_room,ABNORMAL,-9.0968,32,27,0,[ABNORMAL] score=-9.0968 | feat=32ms infer=27ms
+2026-05-12T12:40:57.934337+00:00,80.469,normal_room,UNCERTAIN,2.189,33,26,0,[UNCERTAIN] score=2.1890 | feat=33ms infer=26ms
+2026-05-12T12:40:58.445554+00:00,80.984,normal_room,NORMAL,5.5719,33,26,0,[NORMAL] score=5.5719 | feat=33ms infer=26ms
+2026-05-12T12:40:58.956297+00:00,81.484,normal_room,NORMAL,11.3718,33,26,0,[NORMAL] score=11.3718 | feat=33ms infer=26ms
+2026-05-12T12:40:59.435193+00:00,81.969,normal_room,NORMAL,11.5269,33,26,0,[NORMAL] score=11.5269 | feat=33ms infer=26ms
+2026-05-12T12:40:59.946218+00:00,82.484,normal_room,ABNORMAL,-4.2862,33,26,0,[ABNORMAL] score=-4.2862 | feat=33ms infer=26ms
+2026-05-12T12:41:00.456690+00:00,82.984,normal_room,UNCERTAIN,-1.1099,33,26,0,[UNCERTAIN] score=-1.1099 | feat=33ms infer=26ms
+2026-05-12T12:41:00.936760+00:00,83.469,normal_room,NORMAL,19.3436,33,26,0,[NORMAL] score=19.3436 | feat=33ms infer=26ms
+2026-05-12T12:41:01.446534+00:00,83.984,normal_room,NORMAL,12.822,33,26,0,[NORMAL] score=12.8220 | feat=33ms infer=26ms
+2026-05-12T12:41:01.958805+00:00,84.484,normal_room,NORMAL,17.7187,33,26,0,[NORMAL] score=17.7187 | feat=33ms infer=26ms
+2026-05-12T12:41:02.436806+00:00,84.969,normal_room,NORMAL,7.9999,33,26,0,[NORMAL] score=7.9999 | feat=33ms infer=26ms
+2026-05-12T12:41:02.947508+00:00,85.484,normal_room,UNCERTAIN,1.3631,33,26,0,[UNCERTAIN] score=1.3631 | feat=33ms infer=26ms
+2026-05-12T12:41:03.459415+00:00,86.000,normal_room,ABNORMAL,-6.3037,33,26,0,[ABNORMAL] score=-6.3037 | feat=33ms infer=26ms
+2026-05-12T12:41:03.939065+00:00,86.469,normal_room,ABNORMAL,-17.5476,33,26,0,[ABNORMAL] score=-17.5476 | feat=33ms infer=26ms
+2026-05-12T12:41:04.449548+00:00,86.984,normal_room,ABNORMAL,-18.3146,33,26,3,[ABNORMAL] score=-18.3146 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:41:04.961113+00:00,87.500,normal_room,ABNORMAL,-16.2276,33,26,4,[ABNORMAL] score=-16.2276 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:41:05.440598+00:00,87.969,normal_room,ABNORMAL,-7.2438,33,26,5,[ABNORMAL] score=-7.2438 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:41:05.949698+00:00,88.484,normal_room,NORMAL,15.5506,33,26,0,[NORMAL] score=15.5506 | feat=33ms infer=26ms
+2026-05-12T12:41:06.461307+00:00,89.000,normal_room,UNCERTAIN,0.796,33,26,0,[UNCERTAIN] score=0.7960 | feat=33ms infer=26ms
+2026-05-12T12:41:06.941179+00:00,89.469,normal_room,ABNORMAL,-13.3139,33,26,0,[ABNORMAL] score=-13.3139 | feat=33ms infer=26ms
+2026-05-12T12:41:07.452261+00:00,89.984,normal_room,ABNORMAL,-3.4061,33,26,0,[ABNORMAL] score=-3.4061 | feat=33ms infer=26ms
+2026-05-12T12:41:07.962815+00:00,90.500,normal_room,NORMAL,17.2663,33,26,0,[NORMAL] score=17.2663 | feat=33ms infer=26ms
+2026-05-12T12:41:08.441656+00:00,90.969,normal_room,NORMAL,21.5819,33,26,0,[NORMAL] score=21.5819 | feat=33ms infer=26ms
+2026-05-12T12:41:08.951888+00:00,91.484,normal_room,NORMAL,21.6933,33,26,0,[NORMAL] score=21.6933 | feat=33ms infer=26ms
+2026-05-12T12:41:09.432828+00:00,91.969,normal_room,NORMAL,30.7767,32,27,0,[NORMAL] score=30.7767 | feat=32ms infer=27ms
+2026-05-12T12:41:09.942869+00:00,92.469,normal_room,NORMAL,30.656,33,26,0,[NORMAL] score=30.6560 | feat=33ms infer=26ms
+2026-05-12T12:41:10.453134+00:00,92.984,normal_room,ABNORMAL,-13.1915,33,26,0,[ABNORMAL] score=-13.1915 | feat=33ms infer=26ms
+2026-05-12T12:41:10.932479+00:00,93.469,normal_room,ABNORMAL,-23.9521,32,27,0,[ABNORMAL] score=-23.9521 | feat=32ms infer=27ms
+2026-05-12T12:41:11.445139+00:00,93.984,normal_room,ABNORMAL,-18.9018,33,26,3,[ABNORMAL] score=-18.9018 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:41:11.954048+00:00,94.484,normal_room,NORMAL,11.942,33,26,0,[NORMAL] score=11.9420 | feat=33ms infer=26ms
+2026-05-12T12:41:12.434114+00:00,94.969,normal_room,NORMAL,19.3296,32,27,0,[NORMAL] score=19.3296 | feat=32ms infer=27ms
+2026-05-12T12:41:12.945193+00:00,95.484,normal_room,NORMAL,29.7886,33,26,0,[NORMAL] score=29.7886 | feat=33ms infer=26ms
+2026-05-12T12:41:13.455300+00:00,95.984,normal_room,NORMAL,17.015,33,26,0,[NORMAL] score=17.0150 | feat=33ms infer=26ms
+2026-05-12T12:41:13.934456+00:00,96.469,normal_room,NORMAL,15.3984,32,27,0,[NORMAL] score=15.3984 | feat=32ms infer=27ms
+2026-05-12T12:41:14.445012+00:00,96.984,normal_room,NORMAL,11.7793,32,27,0,[NORMAL] score=11.7793 | feat=32ms infer=27ms
+2026-05-12T12:41:14.957058+00:00,97.484,normal_room,ABNORMAL,-12.2053,32,27,0,[ABNORMAL] score=-12.2053 | feat=32ms infer=27ms
+2026-05-12T12:41:15.436902+00:00,97.969,normal_room,ABNORMAL,-17.3374,33,26,0,[ABNORMAL] score=-17.3374 | feat=33ms infer=26ms
+2026-05-12T12:41:15.947633+00:00,98.484,normal_room,ABNORMAL,-20.7037,32,27,3,[ABNORMAL] score=-20.7037 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:41:16.457715+00:00,98.984,normal_room,ABNORMAL,-15.4074,32,27,4,[ABNORMAL] score=-15.4074 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:41:16.937718+00:00,99.469,normal_room,ABNORMAL,-24.087,33,26,5,[ABNORMAL] score=-24.0870 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:41:17.448994+00:00,99.984,normal_room,ABNORMAL,-22.4645,32,27,6,[ABNORMAL] score=-22.4645 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:41:17.959189+00:00,100.500,normal_room,UNCERTAIN,0.8122,32,27,6,[UNCERTAIN] score=0.8122 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:41:18.437670+00:00,100.969,normal_room,NORMAL,12.6509,33,26,0,[NORMAL] score=12.6509 | feat=33ms infer=26ms
+2026-05-12T12:41:18.949620+00:00,101.484,normal_room,NORMAL,19.1568,32,27,0,[NORMAL] score=19.1568 | feat=32ms infer=27ms
+2026-05-12T12:41:19.459422+00:00,102.000,normal_room,NORMAL,16.6265,32,27,0,[NORMAL] score=16.6265 | feat=32ms infer=27ms
+2026-05-12T12:41:19.938915+00:00,102.469,normal_room,NORMAL,20.9876,33,26,0,[NORMAL] score=20.9876 | feat=33ms infer=26ms
+2026-05-12T12:41:20.450272+00:00,102.984,normal_room,NORMAL,4.4596,32,27,0,[NORMAL] score=4.4596 | feat=32ms infer=27ms
+2026-05-12T12:41:20.961155+00:00,103.500,normal_room,UNCERTAIN,-1.3728,32,27,0,[UNCERTAIN] score=-1.3728 | feat=32ms infer=27ms
+2026-05-12T12:41:21.440365+00:00,103.969,normal_room,UNCERTAIN,0.4506,33,26,0,[UNCERTAIN] score=0.4506 | feat=33ms infer=26ms
+2026-05-12T12:41:21.951337+00:00,104.484,normal_room,NORMAL,14.7383,33,26,0,[NORMAL] score=14.7383 | feat=33ms infer=26ms
+2026-05-12T12:41:22.462530+00:00,105.000,normal_room,NORMAL,16.6058,33,26,0,[NORMAL] score=16.6058 | feat=33ms infer=26ms
+2026-05-12T12:41:22.941037+00:00,105.469,normal_room,NORMAL,18.9377,33,26,0,[NORMAL] score=18.9377 | feat=33ms infer=26ms
+2026-05-12T12:41:23.452065+00:00,105.984,normal_room,NORMAL,12.1276,33,26,0,[NORMAL] score=12.1276 | feat=33ms infer=26ms
+2026-05-12T12:41:23.931664+00:00,106.469,normal_room,ABNORMAL,-12.508,33,26,0,[ABNORMAL] score=-12.5080 | feat=33ms infer=26ms
+2026-05-12T12:41:24.442499+00:00,106.969,normal_room,ABNORMAL,-18.1125,33,26,0,[ABNORMAL] score=-18.1125 | feat=33ms infer=26ms
+2026-05-12T12:41:24.954544+00:00,107.484,normal_room,ABNORMAL,-21.6226,33,26,3,[ABNORMAL] score=-21.6226 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:41:25.432630+00:00,107.969,normal_room,ABNORMAL,-22.6327,33,26,4,[ABNORMAL] score=-22.6327 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:41:25.943752+00:00,108.484,normal_room,NORMAL,9.8983,33,26,0,[NORMAL] score=9.8983 | feat=33ms infer=26ms
+2026-05-12T12:41:26.455252+00:00,108.984,normal_room,NORMAL,6.3433,33,26,0,[NORMAL] score=6.3433 | feat=33ms infer=26ms
+2026-05-12T12:41:26.934334+00:00,109.469,normal_room,NORMAL,15.9923,33,26,0,[NORMAL] score=15.9923 | feat=33ms infer=26ms
+2026-05-12T12:41:27.444964+00:00,109.984,normal_room,NORMAL,10.2184,33,26,0,[NORMAL] score=10.2184 | feat=33ms infer=26ms
+2026-05-12T12:41:27.955198+00:00,110.484,normal_room,NORMAL,6.6199,33,26,0,[NORMAL] score=6.6199 | feat=33ms infer=26ms
+2026-05-12T12:41:28.434290+00:00,110.969,normal_room,NORMAL,17.407,33,26,0,[NORMAL] score=17.4070 | feat=33ms infer=26ms
+2026-05-12T12:41:28.946340+00:00,111.484,normal_room,NORMAL,11.3775,33,26,0,[NORMAL] score=11.3775 | feat=33ms infer=26ms
+2026-05-12T12:41:29.457000+00:00,111.984,normal_room,NORMAL,9.0745,33,26,0,[NORMAL] score=9.0745 | feat=33ms infer=26ms
+2026-05-12T12:41:29.936495+00:00,112.469,normal_room,UNCERTAIN,3.6642,33,26,0,[UNCERTAIN] score=3.6642 | feat=33ms infer=26ms
+2026-05-12T12:41:30.447036+00:00,112.984,normal_room,ABNORMAL,-3.4123,33,26,0,[ABNORMAL] score=-3.4123 | feat=33ms infer=26ms
+2026-05-12T12:41:30.958080+00:00,113.484,normal_room,ABNORMAL,-5.6439,33,26,0,[ABNORMAL] score=-5.6439 | feat=33ms infer=26ms
+2026-05-12T12:41:31.437772+00:00,113.969,normal_room,UNCERTAIN,-1.3525,33,26,0,[UNCERTAIN] score=-1.3525 | feat=33ms infer=26ms
+2026-05-12T12:41:31.948150+00:00,114.484,normal_room,UNCERTAIN,0.922,33,26,0,[UNCERTAIN] score=0.9220 | feat=33ms infer=26ms
+2026-05-12T12:41:32.460327+00:00,115.000,normal_room,ABNORMAL,-19.8277,33,26,3,[ABNORMAL] score=-19.8277 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:41:32.938941+00:00,115.469,normal_room,ABNORMAL,-17.2029,32,27,4,[ABNORMAL] score=-17.2029 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:41:33.449822+00:00,115.984,normal_room,ABNORMAL,-6.8385,33,26,5,[ABNORMAL] score=-6.8385 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:41:33.960441+00:00,116.500,normal_room,NORMAL,9.1955,33,26,0,[NORMAL] score=9.1955 | feat=33ms infer=26ms
+2026-05-12T12:41:34.439164+00:00,116.969,normal_room,NORMAL,8.6879,32,27,0,[NORMAL] score=8.6879 | feat=32ms infer=27ms
+2026-05-12T12:41:34.949366+00:00,117.484,normal_room,NORMAL,11.0949,33,26,0,[NORMAL] score=11.0949 | feat=33ms infer=26ms
+2026-05-12T12:41:35.461468+00:00,118.000,normal_room,NORMAL,10.5349,33,26,0,[NORMAL] score=10.5349 | feat=33ms infer=26ms
+2026-05-12T12:41:35.940675+00:00,118.469,normal_room,UNCERTAIN,1.1482,32,27,0,[UNCERTAIN] score=1.1482 | feat=32ms infer=27ms
+2026-05-12T12:41:36.452046+00:00,118.984,normal_room,UNCERTAIN,-0.5454,33,26,0,[UNCERTAIN] score=-0.5454 | feat=33ms infer=26ms
+2026-05-12T12:41:36.962519+00:00,119.500,normal_room,NORMAL,5.307,33,26,0,[NORMAL] score=5.3070 | feat=33ms infer=26ms
+2026-05-12T12:41:37.441311+00:00,119.969,normal_room,NORMAL,10.0019,32,27,0,[NORMAL] score=10.0019 | feat=32ms infer=27ms
+2026-05-12T12:41:37.952528+00:00,120.484,normal_room,ABNORMAL,-5.8677,32,27,0,[ABNORMAL] score=-5.8677 | feat=32ms infer=27ms
+2026-05-12T12:41:38.430996+00:00,120.969,normal_room,ABNORMAL,-21.4629,32,27,0,[ABNORMAL] score=-21.4629 | feat=32ms infer=27ms
+2026-05-12T12:41:38.943742+00:00,121.484,normal_room,ABNORMAL,-25.0961,32,27,3,[ABNORMAL] score=-25.0961 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:41:39.454520+00:00,121.984,normal_room,ABNORMAL,-25.3262,32,27,4,[ABNORMAL] score=-25.3262 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:41:39.932866+00:00,122.469,normal_room,ABNORMAL,-25.4054,33,26,5,[ABNORMAL] score=-25.4054 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:41:40.444357+00:00,122.984,normal_room,ABNORMAL,-25.4049,32,27,6,[ABNORMAL] score=-25.4049 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:41:40.954110+00:00,123.484,normal_room,ABNORMAL,-25.3878,32,27,7,[ABNORMAL] score=-25.3878 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:41:41.434236+00:00,123.969,normal_room,ABNORMAL,-25.1498,33,26,8,[ABNORMAL] score=-25.1498 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:41:41.945011+00:00,124.484,normal_room,ABNORMAL,-24.8149,32,27,9,[ABNORMAL] score=-24.8149 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:41:42.455177+00:00,124.984,normal_room,ABNORMAL,-23.8355,32,27,10,[ABNORMAL] score=-23.8355 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:41:42.935890+00:00,125.469,normal_room,ABNORMAL,-24.2127,33,26,11,[ABNORMAL] score=-24.2127 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:41:43.446350+00:00,125.984,normal_room,ABNORMAL,-20.6197,32,27,12,[ABNORMAL] score=-20.6197 | feat=32ms infer=27ms *** ALERT (12 consecutive) ***
+2026-05-12T12:41:43.956596+00:00,126.484,normal_room,ABNORMAL,-3.3871,32,27,13,[ABNORMAL] score=-3.3871 | feat=32ms infer=27ms *** ALERT (13 consecutive) ***
+2026-05-12T12:41:44.436264+00:00,126.969,normal_room,ABNORMAL,-11.1731,33,26,14,[ABNORMAL] score=-11.1731 | feat=33ms infer=26ms *** ALERT (14 consecutive) ***
+2026-05-12T12:41:44.947289+00:00,127.484,normal_room,ABNORMAL,-11.332,33,26,15,[ABNORMAL] score=-11.3320 | feat=33ms infer=26ms *** ALERT (15 consecutive) ***
+2026-05-12T12:41:45.457987+00:00,127.984,normal_room,ABNORMAL,-6.8142,33,26,16,[ABNORMAL] score=-6.8142 | feat=33ms infer=26ms *** ALERT (16 consecutive) ***
+2026-05-12T12:41:45.937762+00:00,128.469,normal_room,ABNORMAL,-11.4901,33,26,17,[ABNORMAL] score=-11.4901 | feat=33ms infer=26ms *** ALERT (17 consecutive) ***
+2026-05-12T12:41:46.448561+00:00,128.984,normal_room,ABNORMAL,-6.6687,33,26,18,[ABNORMAL] score=-6.6687 | feat=33ms infer=26ms *** ALERT (18 consecutive) ***
+2026-05-12T12:41:46.959319+00:00,129.500,normal_room,UNCERTAIN,3.384,33,26,18,[UNCERTAIN] score=3.3840 | feat=33ms infer=26ms *** ALERT (18 consecutive) ***
+2026-05-12T12:41:47.439332+00:00,129.969,normal_room,ABNORMAL,-3.8321,33,26,19,[ABNORMAL] score=-3.8321 | feat=33ms infer=26ms *** ALERT (19 consecutive) ***
+2026-05-12T12:41:47.949457+00:00,130.484,normal_room,UNCERTAIN,-0.135,33,26,19,[UNCERTAIN] score=-0.1350 | feat=33ms infer=26ms *** ALERT (19 consecutive) ***
+2026-05-12T12:41:48.460469+00:00,131.000,normal_room,NORMAL,11.9363,33,26,0,[NORMAL] score=11.9363 | feat=33ms infer=26ms
+2026-05-12T12:41:48.939338+00:00,131.469,normal_room,NORMAL,11.7892,33,26,0,[NORMAL] score=11.7892 | feat=33ms infer=26ms
+2026-05-12T12:41:49.449401+00:00,131.984,normal_room,UNCERTAIN,2.0881,33,26,0,[UNCERTAIN] score=2.0881 | feat=33ms infer=26ms
+2026-05-12T12:41:49.961222+00:00,132.500,normal_room,UNCERTAIN,3.7064,33,26,0,[UNCERTAIN] score=3.7064 | feat=33ms infer=26ms
+2026-05-12T12:41:50.440409+00:00,132.969,normal_room,NORMAL,4.3932,33,26,0,[NORMAL] score=4.3932 | feat=33ms infer=26ms
+2026-05-12T12:41:50.950877+00:00,133.484,normal_room,UNCERTAIN,3.9869,33,26,0,[UNCERTAIN] score=3.9869 | feat=33ms infer=26ms
+2026-05-12T12:41:51.462521+00:00,134.000,normal_room,NORMAL,4.6117,33,26,0,[NORMAL] score=4.6117 | feat=33ms infer=26ms
+2026-05-12T12:41:51.941179+00:00,134.469,normal_room,NORMAL,8.524,33,26,0,[NORMAL] score=8.5240 | feat=33ms infer=26ms
+2026-05-12T12:41:52.452231+00:00,134.984,normal_room,UNCERTAIN,0.3783,33,26,0,[UNCERTAIN] score=0.3783 | feat=33ms infer=26ms
+2026-05-12T12:41:52.963100+00:00,135.500,normal_room,NORMAL,9.8102,33,26,0,[NORMAL] score=9.8102 | feat=33ms infer=26ms
+2026-05-12T12:41:53.442597+00:00,135.969,normal_room,NORMAL,11.1408,33,26,0,[NORMAL] score=11.1408 | feat=33ms infer=26ms
+2026-05-12T12:41:53.952420+00:00,136.484,normal_room,NORMAL,8.0338,33,26,0,[NORMAL] score=8.0338 | feat=33ms infer=26ms
+2026-05-12T12:41:54.432927+00:00,136.969,normal_room,NORMAL,8.2916,33,26,0,[NORMAL] score=8.2916 | feat=33ms infer=26ms
+2026-05-12T12:41:54.943182+00:00,137.469,normal_room,NORMAL,7.1008,33,26,0,[NORMAL] score=7.1008 | feat=33ms infer=26ms
+2026-05-12T12:41:55.454678+00:00,137.984,normal_room,UNCERTAIN,2.2728,33,26,0,[UNCERTAIN] score=2.2728 | feat=33ms infer=26ms
+2026-05-12T12:41:55.932527+00:00,138.469,normal_room,ABNORMAL,-13.2004,32,27,0,[ABNORMAL] score=-13.2004 | feat=32ms infer=27ms
+2026-05-12T12:41:56.443774+00:00,138.984,normal_room,ABNORMAL,-18.7731,33,26,0,[ABNORMAL] score=-18.7731 | feat=33ms infer=26ms
+2026-05-12T12:41:56.955963+00:00,139.484,normal_room,ABNORMAL,-5.2894,33,26,3,[ABNORMAL] score=-5.2894 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:41:57.434255+00:00,139.969,normal_room,NORMAL,7.3399,32,27,0,[NORMAL] score=7.3399 | feat=32ms infer=27ms
+2026-05-12T12:41:57.945495+00:00,140.484,normal_room,NORMAL,15.6878,33,26,0,[NORMAL] score=15.6878 | feat=33ms infer=26ms
+2026-05-12T12:41:58.456640+00:00,140.984,normal_room,UNCERTAIN,2.077,33,26,0,[UNCERTAIN] score=2.0770 | feat=33ms infer=26ms
+2026-05-12T12:41:58.936048+00:00,141.469,normal_room,ABNORMAL,-4.169,32,27,0,[ABNORMAL] score=-4.1690 | feat=32ms infer=27ms
+2026-05-12T12:41:59.446708+00:00,141.984,normal_room,ABNORMAL,-24.3596,33,26,0,[ABNORMAL] score=-24.3596 | feat=33ms infer=26ms
+2026-05-12T12:41:59.958151+00:00,142.484,normal_room,ABNORMAL,-21.9131,33,26,3,[ABNORMAL] score=-21.9131 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:42:00.437051+00:00,142.969,normal_room,NORMAL,13.1545,32,27,0,[NORMAL] score=13.1545 | feat=32ms infer=27ms
+2026-05-12T12:42:00.947885+00:00,143.484,normal_room,NORMAL,14.5445,32,27,0,[NORMAL] score=14.5445 | feat=32ms infer=27ms
+2026-05-12T12:42:01.458137+00:00,143.984,normal_room,NORMAL,9.718,32,27,0,[NORMAL] score=9.7180 | feat=32ms infer=27ms
+2026-05-12T12:42:01.938301+00:00,144.469,normal_room,NORMAL,16.8405,32,27,0,[NORMAL] score=16.8405 | feat=32ms infer=27ms
+2026-05-12T12:42:02.449186+00:00,144.984,normal_room,ABNORMAL,-15.6435,32,27,0,[ABNORMAL] score=-15.6435 | feat=32ms infer=27ms
+2026-05-12T12:42:02.959679+00:00,145.500,normal_room,ABNORMAL,-22.883,32,27,0,[ABNORMAL] score=-22.8830 | feat=32ms infer=27ms
+2026-05-12T12:42:03.440473+00:00,145.969,normal_room,ABNORMAL,-7.5838,33,26,3,[ABNORMAL] score=-7.5838 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:42:03.949371+00:00,146.484,normal_room,ABNORMAL,-9.6464,32,27,4,[ABNORMAL] score=-9.6464 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:42:04.461772+00:00,147.000,normal_room,ABNORMAL,-9.2139,32,27,5,[ABNORMAL] score=-9.2139 | feat=32ms infer=27ms *** ALERT (5 consecutive) ***
+2026-05-12T12:42:04.941174+00:00,147.469,normal_room,ABNORMAL,-12.0471,33,26,6,[ABNORMAL] score=-12.0471 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:42:05.451303+00:00,147.984,normal_room,ABNORMAL,-16.837,32,27,7,[ABNORMAL] score=-16.8370 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:42:05.962482+00:00,148.500,normal_room,ABNORMAL,-11.2151,32,27,8,[ABNORMAL] score=-11.2151 | feat=32ms infer=27ms *** ALERT (8 consecutive) ***
+2026-05-12T12:42:06.442365+00:00,148.969,normal_room,ABNORMAL,-9.6267,33,26,9,[ABNORMAL] score=-9.6267 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:42:06.952620+00:00,149.484,normal_room,ABNORMAL,-14.6025,32,27,10,[ABNORMAL] score=-14.6025 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:42:07.462584+00:00,150.000,normal_room,ABNORMAL,-14.374,32,27,11,[ABNORMAL] score=-14.3740 | feat=32ms infer=27ms *** ALERT (11 consecutive) ***
+2026-05-12T12:42:07.943366+00:00,150.469,normal_room,ABNORMAL,-14.008,33,26,12,[ABNORMAL] score=-14.0080 | feat=33ms infer=26ms *** ALERT (12 consecutive) ***
+2026-05-12T12:42:08.453821+00:00,150.984,normal_room,ABNORMAL,-7.8834,33,26,13,[ABNORMAL] score=-7.8834 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:42:08.932462+00:00,151.469,normal_room,NORMAL,17.7293,33,26,0,[NORMAL] score=17.7293 | feat=33ms infer=26ms
+2026-05-12T12:42:09.443504+00:00,151.969,normal_room,NORMAL,7.2906,33,26,0,[NORMAL] score=7.2906 | feat=33ms infer=26ms
+2026-05-12T12:42:09.953334+00:00,152.484,normal_room,UNCERTAIN,1.1239,33,26,0,[UNCERTAIN] score=1.1239 | feat=33ms infer=26ms
+2026-05-12T12:42:10.432828+00:00,152.969,normal_room,NORMAL,16.6768,33,26,0,[NORMAL] score=16.6768 | feat=33ms infer=26ms
+2026-05-12T12:42:10.943653+00:00,153.484,normal_room,NORMAL,16.3308,33,26,0,[NORMAL] score=16.3308 | feat=33ms infer=26ms
+2026-05-12T12:42:11.455534+00:00,153.984,normal_room,ABNORMAL,-24.7675,33,26,0,[ABNORMAL] score=-24.7675 | feat=33ms infer=26ms
+2026-05-12T12:42:11.934277+00:00,154.469,normal_room,ABNORMAL,-22.994,33,26,0,[ABNORMAL] score=-22.9940 | feat=33ms infer=26ms
+2026-05-12T12:42:12.445303+00:00,154.984,normal_room,UNCERTAIN,-1.8467,33,26,0,[UNCERTAIN] score=-1.8467 | feat=33ms infer=26ms
+2026-05-12T12:42:12.956609+00:00,155.484,normal_room,NORMAL,17.3589,33,26,0,[NORMAL] score=17.3589 | feat=33ms infer=26ms
+2026-05-12T12:42:13.435714+00:00,155.969,normal_room,NORMAL,23.7766,33,26,0,[NORMAL] score=23.7766 | feat=33ms infer=26ms
+2026-05-12T12:42:13.946520+00:00,156.484,normal_room,NORMAL,19.0913,33,26,0,[NORMAL] score=19.0913 | feat=33ms infer=26ms
+2026-05-12T12:42:14.456788+00:00,156.984,normal_room,NORMAL,14.2413,33,26,0,[NORMAL] score=14.2413 | feat=33ms infer=26ms
+2026-05-12T12:42:14.936691+00:00,157.469,normal_room,NORMAL,19.8766,33,26,0,[NORMAL] score=19.8766 | feat=33ms infer=26ms
+2026-05-12T12:42:15.447661+00:00,157.984,normal_room,NORMAL,23.3153,33,26,0,[NORMAL] score=23.3153 | feat=33ms infer=26ms
+2026-05-12T12:42:15.957700+00:00,158.484,normal_room,ABNORMAL,-13.3056,33,26,0,[ABNORMAL] score=-13.3056 | feat=33ms infer=26ms
+2026-05-12T12:42:16.437784+00:00,158.969,normal_room,ABNORMAL,-17.2989,33,26,0,[ABNORMAL] score=-17.2989 | feat=33ms infer=26ms
+2026-05-12T12:42:16.949119+00:00,159.484,normal_room,ABNORMAL,-7.5917,33,26,3,[ABNORMAL] score=-7.5917 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:42:17.460422+00:00,160.000,normal_room,ABNORMAL,-2.7845,33,26,4,[ABNORMAL] score=-2.7845 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:42:17.939748+00:00,160.469,normal_room,ABNORMAL,-7.1188,33,26,5,[ABNORMAL] score=-7.1188 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:42:18.450930+00:00,160.984,normal_room,UNCERTAIN,-1.4717,33,26,5,[UNCERTAIN] score=-1.4717 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:42:18.961525+00:00,161.500,normal_room,UNCERTAIN,1.5599,33,26,5,[UNCERTAIN] score=1.5599 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:42:19.440808+00:00,161.969,normal_room,ABNORMAL,-17.6659,32,27,6,[ABNORMAL] score=-17.6659 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:42:19.951857+00:00,162.484,normal_room,ABNORMAL,-24.6965,33,26,7,[ABNORMAL] score=-24.6965 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:42:20.461309+00:00,163.000,normal_room,ABNORMAL,-25.0343,33,26,8,[ABNORMAL] score=-25.0343 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:42:20.942021+00:00,163.469,normal_room,ABNORMAL,-25.2133,32,27,9,[ABNORMAL] score=-25.2133 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:42:21.452598+00:00,163.984,normal_room,ABNORMAL,-25.2198,33,26,10,[ABNORMAL] score=-25.2198 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:42:21.963864+00:00,164.500,normal_room,ABNORMAL,-25.0606,33,26,11,[ABNORMAL] score=-25.0606 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:42:22.442376+00:00,164.969,normal_room,ABNORMAL,-24.7852,32,27,12,[ABNORMAL] score=-24.7852 | feat=32ms infer=27ms *** ALERT (12 consecutive) ***
+2026-05-12T12:42:22.953546+00:00,165.484,normal_room,ABNORMAL,-24.5213,33,26,13,[ABNORMAL] score=-24.5213 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:42:23.432992+00:00,165.969,normal_room,ABNORMAL,-23.9277,32,27,14,[ABNORMAL] score=-23.9277 | feat=32ms infer=27ms *** ALERT (14 consecutive) ***
+2026-05-12T12:42:23.943130+00:00,166.469,normal_room,ABNORMAL,-22.3146,32,27,15,[ABNORMAL] score=-22.3146 | feat=32ms infer=27ms *** ALERT (15 consecutive) ***
+2026-05-12T12:42:24.454772+00:00,166.984,normal_room,ABNORMAL,-18.5583,32,27,16,[ABNORMAL] score=-18.5583 | feat=32ms infer=27ms *** ALERT (16 consecutive) ***
+2026-05-12T12:42:24.934130+00:00,167.469,normal_room,ABNORMAL,-2.916,32,27,17,[ABNORMAL] score=-2.9160 | feat=32ms infer=27ms *** ALERT (17 consecutive) ***
+2026-05-12T12:42:25.445151+00:00,167.984,normal_room,ABNORMAL,-5.5655,32,27,18,[ABNORMAL] score=-5.5655 | feat=32ms infer=27ms *** ALERT (18 consecutive) ***
+2026-05-12T12:42:25.955503+00:00,168.484,normal_room,UNCERTAIN,2.4501,32,27,18,[UNCERTAIN] score=2.4501 | feat=32ms infer=27ms *** ALERT (18 consecutive) ***
+2026-05-12T12:42:26.435298+00:00,168.969,normal_room,UNCERTAIN,3.7369,33,26,18,[UNCERTAIN] score=3.7369 | feat=33ms infer=26ms *** ALERT (18 consecutive) ***
+2026-05-12T12:42:26.945065+00:00,169.484,normal_room,NORMAL,5.1263,32,27,0,[NORMAL] score=5.1263 | feat=32ms infer=27ms
+2026-05-12T12:42:27.455884+00:00,169.984,normal_room,NORMAL,4.4294,32,27,0,[NORMAL] score=4.4294 | feat=32ms infer=27ms
+2026-05-12T12:42:27.935043+00:00,170.469,normal_room,UNCERTAIN,1.2589,33,26,0,[UNCERTAIN] score=1.2589 | feat=33ms infer=26ms
+2026-05-12T12:42:28.446603+00:00,170.984,normal_room,ABNORMAL,-7.9778,32,27,0,[ABNORMAL] score=-7.9778 | feat=32ms infer=27ms
+2026-05-12T12:42:28.957070+00:00,171.484,normal_room,ABNORMAL,-6.0077,32,27,0,[ABNORMAL] score=-6.0077 | feat=32ms infer=27ms
+2026-05-12T12:42:29.436224+00:00,171.969,normal_room,ABNORMAL,-6.6851,33,26,3,[ABNORMAL] score=-6.6851 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:42:29.947872+00:00,172.484,normal_room,UNCERTAIN,3.5697,32,27,3,[UNCERTAIN] score=3.5697 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:42:30.459575+00:00,173.000,normal_room,ABNORMAL,-7.9384,32,27,4,[ABNORMAL] score=-7.9384 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:42:30.938174+00:00,173.469,normal_room,ABNORMAL,-10.5659,33,26,5,[ABNORMAL] score=-10.5659 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:42:31.449375+00:00,173.984,normal_room,ABNORMAL,-8.2495,33,26,6,[ABNORMAL] score=-8.2495 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:42:31.959717+00:00,174.500,normal_room,UNCERTAIN,-0.6986,33,26,6,[UNCERTAIN] score=-0.6986 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:42:32.439140+00:00,174.969,normal_room,ABNORMAL,-5.09,33,26,7,[ABNORMAL] score=-5.0900 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:42:32.950213+00:00,175.484,normal_room,ABNORMAL,-3.5247,33,26,8,[ABNORMAL] score=-3.5247 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:42:33.461775+00:00,176.000,normal_room,ABNORMAL,-3.4375,33,26,9,[ABNORMAL] score=-3.4375 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:42:33.941307+00:00,176.469,normal_room,ABNORMAL,-13.3036,33,26,10,[ABNORMAL] score=-13.3036 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:42:34.452961+00:00,176.984,normal_room,ABNORMAL,-21.6944,33,26,11,[ABNORMAL] score=-21.6944 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:42:34.962780+00:00,177.500,normal_room,ABNORMAL,-15.0047,33,26,12,[ABNORMAL] score=-15.0047 | feat=33ms infer=26ms *** ALERT (12 consecutive) ***
+2026-05-12T12:42:35.441419+00:00,177.969,normal_room,ABNORMAL,-4.3214,33,26,13,[ABNORMAL] score=-4.3214 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:42:36.462591+00:00,179.000,normal_room,UNCERTAIN,-0.4497,33,26,13,[UNCERTAIN] score=-0.4497 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:42:36.941978+00:00,179.469,normal_room,UNCERTAIN,-0.1249,33,26,13,[UNCERTAIN] score=-0.1249 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:42:37.453325+00:00,179.984,normal_room,UNCERTAIN,2.0592,33,26,13,[UNCERTAIN] score=2.0592 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:42:37.962984+00:00,180.500,normal_room,NORMAL,6.9609,33,26,0,[NORMAL] score=6.9609 | feat=33ms infer=26ms
+2026-05-12T12:42:38.442082+00:00,180.969,normal_room,NORMAL,5.6276,33,26,0,[NORMAL] score=5.6276 | feat=33ms infer=26ms
+2026-05-12T12:42:38.953781+00:00,181.484,normal_room,UNCERTAIN,2.0064,33,26,0,[UNCERTAIN] score=2.0064 | feat=33ms infer=26ms
+2026-05-12T12:42:39.433561+00:00,181.969,normal_room,NORMAL,11.5723,33,26,0,[NORMAL] score=11.5723 | feat=33ms infer=26ms
+2026-05-12T12:42:39.943951+00:00,182.484,normal_room,UNCERTAIN,2.3285,33,26,0,[UNCERTAIN] score=2.3285 | feat=33ms infer=26ms
+2026-05-12T12:42:40.455479+00:00,182.984,normal_room,NORMAL,12.7981,33,26,0,[NORMAL] score=12.7981 | feat=33ms infer=26ms
+2026-05-12T12:42:40.934194+00:00,183.469,normal_room,NORMAL,15.4829,33,26,0,[NORMAL] score=15.4829 | feat=33ms infer=26ms
+2026-05-12T12:42:41.445247+00:00,183.984,normal_room,UNCERTAIN,1.38,33,26,0,[UNCERTAIN] score=1.3800 | feat=33ms infer=26ms
+2026-05-12T12:42:41.956712+00:00,184.484,normal_room,UNCERTAIN,-1.9391,33,26,0,[UNCERTAIN] score=-1.9391 | feat=33ms infer=26ms
+2026-05-12T12:42:42.435410+00:00,184.969,normal_room,ABNORMAL,-18.1442,32,27,0,[ABNORMAL] score=-18.1442 | feat=32ms infer=27ms
+2026-05-12T12:42:42.946275+00:00,185.484,normal_room,ABNORMAL,-24.615,33,26,0,[ABNORMAL] score=-24.6150 | feat=33ms infer=26ms
+2026-05-12T12:42:43.457921+00:00,185.984,normal_room,ABNORMAL,-19.4519,33,26,3,[ABNORMAL] score=-19.4519 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:42:43.936824+00:00,186.469,normal_room,ABNORMAL,-5.8826,32,27,4,[ABNORMAL] score=-5.8826 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:42:44.447973+00:00,186.984,normal_room,ABNORMAL,-3.4552,33,26,5,[ABNORMAL] score=-3.4552 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:42:44.958658+00:00,187.484,normal_room,ABNORMAL,-16.3797,33,26,6,[ABNORMAL] score=-16.3797 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:42:45.437554+00:00,187.969,normal_room,ABNORMAL,-23.6909,32,27,7,[ABNORMAL] score=-23.6909 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:42:45.948837+00:00,188.484,normal_room,ABNORMAL,-15.8234,33,26,8,[ABNORMAL] score=-15.8234 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:42:46.460435+00:00,189.000,normal_room,ABNORMAL,-2.4237,33,26,9,[ABNORMAL] score=-2.4237 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:42:46.939420+00:00,189.469,normal_room,UNCERTAIN,3.4813,32,27,9,[UNCERTAIN] score=3.4813 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:42:47.450357+00:00,189.984,normal_room,UNCERTAIN,3.2016,32,27,9,[UNCERTAIN] score=3.2016 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:42:47.960356+00:00,190.500,normal_room,NORMAL,8.4215,32,27,0,[NORMAL] score=8.4215 | feat=32ms infer=27ms
+2026-05-12T12:42:48.439515+00:00,190.969,normal_room,NORMAL,11.1129,32,27,0,[NORMAL] score=11.1129 | feat=32ms infer=27ms
+2026-05-12T12:42:48.949589+00:00,191.484,normal_room,NORMAL,8.0961,32,27,0,[NORMAL] score=8.0961 | feat=32ms infer=27ms
+2026-05-12T12:42:49.460651+00:00,192.000,normal_room,NORMAL,12.5766,32,27,0,[NORMAL] score=12.5766 | feat=32ms infer=27ms
+2026-05-12T12:42:49.940126+00:00,192.469,normal_room,NORMAL,19.073,33,26,0,[NORMAL] score=19.0730 | feat=33ms infer=26ms
+2026-05-12T12:42:50.451012+00:00,192.984,normal_room,NORMAL,14.4867,32,27,0,[NORMAL] score=14.4867 | feat=32ms infer=27ms
+2026-05-12T12:42:50.962492+00:00,193.500,normal_room,NORMAL,5.1513,32,27,0,[NORMAL] score=5.1513 | feat=32ms infer=27ms
+2026-05-12T12:42:51.441777+00:00,193.969,normal_room,NORMAL,12.1641,33,26,0,[NORMAL] score=12.1641 | feat=33ms infer=26ms
+2026-05-12T12:42:51.952590+00:00,194.484,normal_room,NORMAL,7.3196,32,27,0,[NORMAL] score=7.3196 | feat=32ms infer=27ms
+2026-05-12T12:42:52.462716+00:00,195.000,normal_room,UNCERTAIN,3.1023,32,27,0,[UNCERTAIN] score=3.1023 | feat=32ms infer=27ms
+2026-05-12T12:42:52.942204+00:00,195.469,normal_room,UNCERTAIN,-0.7766,33,26,0,[UNCERTAIN] score=-0.7766 | feat=33ms infer=26ms
+2026-05-12T12:42:53.454315+00:00,195.984,normal_room,UNCERTAIN,-1.361,32,27,0,[UNCERTAIN] score=-1.3610 | feat=32ms infer=27ms
+2026-05-12T12:42:53.932577+00:00,196.469,normal_room,NORMAL,4.6604,33,26,0,[NORMAL] score=4.6604 | feat=33ms infer=26ms
+2026-05-12T12:42:54.443392+00:00,196.969,normal_room,NORMAL,4.4222,33,26,0,[NORMAL] score=4.4222 | feat=33ms infer=26ms
+2026-05-12T12:42:54.953910+00:00,197.484,normal_room,NORMAL,4.8735,33,26,0,[NORMAL] score=4.8735 | feat=33ms infer=26ms
+2026-05-12T12:42:55.434237+00:00,197.969,normal_room,NORMAL,4.62,33,26,0,[NORMAL] score=4.6200 | feat=33ms infer=26ms
+2026-05-12T12:42:55.944976+00:00,198.484,normal_room,UNCERTAIN,1.8296,33,26,0,[UNCERTAIN] score=1.8296 | feat=33ms infer=26ms
+2026-05-12T12:42:56.456038+00:00,198.984,normal_room,NORMAL,4.0994,33,26,0,[NORMAL] score=4.0994 | feat=33ms infer=26ms
+2026-05-12T12:42:56.935165+00:00,199.469,normal_room,NORMAL,7.8531,33,26,0,[NORMAL] score=7.8531 | feat=33ms infer=26ms
+2026-05-12T12:42:57.446154+00:00,199.984,normal_room,UNCERTAIN,3.4816,33,26,0,[UNCERTAIN] score=3.4816 | feat=33ms infer=26ms
+2026-05-12T12:42:57.956563+00:00,200.484,normal_room,NORMAL,8.2177,33,26,0,[NORMAL] score=8.2177 | feat=33ms infer=26ms
+2026-05-12T12:42:58.435616+00:00,200.969,normal_room,NORMAL,4.1826,33,26,0,[NORMAL] score=4.1826 | feat=33ms infer=26ms
+2026-05-12T12:42:58.946730+00:00,201.484,normal_room,UNCERTAIN,-1.7081,33,26,0,[UNCERTAIN] score=-1.7081 | feat=33ms infer=26ms
+2026-05-12T12:42:59.458445+00:00,201.984,normal_room,ABNORMAL,-23.3374,33,26,0,[ABNORMAL] score=-23.3374 | feat=33ms infer=26ms
+2026-05-12T12:42:59.937749+00:00,202.469,normal_room,ABNORMAL,-24.2666,33,26,0,[ABNORMAL] score=-24.2666 | feat=33ms infer=26ms
+2026-05-12T12:43:00.448310+00:00,202.984,normal_room,ABNORMAL,-10.9328,33,26,3,[ABNORMAL] score=-10.9328 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:00.959468+00:00,203.500,normal_room,NORMAL,5.7943,33,26,0,[NORMAL] score=5.7943 | feat=33ms infer=26ms
+2026-05-12T12:43:01.437745+00:00,203.969,normal_room,NORMAL,6.5878,33,26,0,[NORMAL] score=6.5878 | feat=33ms infer=26ms
+2026-05-12T12:43:01.949392+00:00,204.484,normal_room,NORMAL,6.3442,33,26,0,[NORMAL] score=6.3442 | feat=33ms infer=26ms
+2026-05-12T12:43:02.460392+00:00,205.000,normal_room,NORMAL,4.2854,33,26,0,[NORMAL] score=4.2854 | feat=33ms infer=26ms
+2026-05-12T12:43:02.939551+00:00,205.469,normal_room,NORMAL,9.1509,33,26,0,[NORMAL] score=9.1509 | feat=33ms infer=26ms
+2026-05-12T12:43:03.451000+00:00,205.984,normal_room,NORMAL,7.672,33,26,0,[NORMAL] score=7.6720 | feat=33ms infer=26ms
+2026-05-12T12:43:03.961647+00:00,206.500,normal_room,NORMAL,12.9715,33,26,0,[NORMAL] score=12.9715 | feat=33ms infer=26ms
+2026-05-12T12:43:04.441339+00:00,206.969,normal_room,ABNORMAL,-21.6135,33,26,0,[ABNORMAL] score=-21.6135 | feat=33ms infer=26ms
+2026-05-12T12:43:04.951371+00:00,207.484,normal_room,ABNORMAL,-24.766,33,26,0,[ABNORMAL] score=-24.7660 | feat=33ms infer=26ms
+2026-05-12T12:43:05.462510+00:00,208.000,normal_room,ABNORMAL,-24.076,33,26,3,[ABNORMAL] score=-24.0760 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:05.943143+00:00,208.469,normal_room,ABNORMAL,-20.2638,32,27,4,[ABNORMAL] score=-20.2638 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:43:06.453379+00:00,208.984,normal_room,ABNORMAL,-14.1605,33,26,5,[ABNORMAL] score=-14.1605 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:43:06.964185+00:00,209.500,normal_room,ABNORMAL,-19.1366,33,26,6,[ABNORMAL] score=-19.1366 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:43:07.443809+00:00,209.984,normal_room,ABNORMAL,-24.0691,32,27,7,[ABNORMAL] score=-24.0691 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:43:07.954117+00:00,210.484,normal_room,ABNORMAL,-21.1429,33,26,8,[ABNORMAL] score=-21.1429 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:43:08.433758+00:00,210.969,normal_room,ABNORMAL,-17.278,32,27,9,[ABNORMAL] score=-17.2780 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:43:08.945065+00:00,211.484,normal_room,ABNORMAL,-20.4209,32,27,10,[ABNORMAL] score=-20.4209 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:43:09.455372+00:00,211.984,normal_room,ABNORMAL,-16.6991,33,26,11,[ABNORMAL] score=-16.6991 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:43:09.934186+00:00,212.469,normal_room,ABNORMAL,-17.0956,32,27,12,[ABNORMAL] score=-17.0956 | feat=32ms infer=27ms *** ALERT (12 consecutive) ***
+2026-05-12T12:43:10.445026+00:00,212.984,normal_room,ABNORMAL,-17.3152,32,27,13,[ABNORMAL] score=-17.3152 | feat=32ms infer=27ms *** ALERT (13 consecutive) ***
+2026-05-12T12:43:10.955903+00:00,213.484,normal_room,NORMAL,8.5382,32,27,0,[NORMAL] score=8.5382 | feat=32ms infer=27ms
+2026-05-12T12:43:11.435055+00:00,213.969,normal_room,NORMAL,14.769,33,26,0,[NORMAL] score=14.7690 | feat=33ms infer=26ms
+2026-05-12T12:43:11.946160+00:00,214.484,normal_room,ABNORMAL,-14.5635,32,27,0,[ABNORMAL] score=-14.5635 | feat=32ms infer=27ms
+2026-05-12T12:43:12.456546+00:00,214.984,normal_room,ABNORMAL,-15.7807,32,27,0,[ABNORMAL] score=-15.7807 | feat=32ms infer=27ms
+2026-05-12T12:43:12.936048+00:00,215.469,normal_room,ABNORMAL,-12.0752,33,26,3,[ABNORMAL] score=-12.0752 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:13.446556+00:00,215.984,normal_room,ABNORMAL,-7.9336,32,27,4,[ABNORMAL] score=-7.9336 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:43:13.959636+00:00,216.500,normal_room,ABNORMAL,-5.5312,32,27,5,[ABNORMAL] score=-5.5312 | feat=32ms infer=27ms *** ALERT (5 consecutive) ***
+2026-05-12T12:43:14.437732+00:00,216.969,normal_room,ABNORMAL,-9.8686,33,26,6,[ABNORMAL] score=-9.8686 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:43:14.949472+00:00,217.484,normal_room,ABNORMAL,-13.0259,32,27,7,[ABNORMAL] score=-13.0259 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:43:15.460953+00:00,218.000,normal_room,ABNORMAL,-9.9177,32,27,8,[ABNORMAL] score=-9.9177 | feat=32ms infer=27ms *** ALERT (8 consecutive) ***
+2026-05-12T12:43:15.939431+00:00,218.469,normal_room,ABNORMAL,-24.1776,33,26,9,[ABNORMAL] score=-24.1776 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:43:16.449796+00:00,218.984,normal_room,ABNORMAL,-25.3044,32,27,10,[ABNORMAL] score=-25.3044 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:43:16.960598+00:00,219.500,normal_room,ABNORMAL,-25.4055,32,27,11,[ABNORMAL] score=-25.4055 | feat=32ms infer=27ms *** ALERT (11 consecutive) ***
+2026-05-12T12:43:17.440570+00:00,219.969,normal_room,ABNORMAL,-25.3765,33,26,12,[ABNORMAL] score=-25.3765 | feat=33ms infer=26ms *** ALERT (12 consecutive) ***
+2026-05-12T12:43:17.950967+00:00,220.484,normal_room,ABNORMAL,-10.3602,33,26,13,[ABNORMAL] score=-10.3602 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:43:18.461845+00:00,221.000,normal_room,ABNORMAL,-3.422,33,26,14,[ABNORMAL] score=-3.4220 | feat=33ms infer=26ms *** ALERT (14 consecutive) ***
+2026-05-12T12:43:18.940198+00:00,221.469,normal_room,NORMAL,13.2622,33,26,0,[NORMAL] score=13.2622 | feat=33ms infer=26ms
+2026-05-12T12:43:19.962616+00:00,222.500,normal_room,ABNORMAL,-17.0111,33,26,0,[ABNORMAL] score=-17.0111 | feat=33ms infer=26ms
+2026-05-12T12:43:20.442764+00:00,222.969,normal_room,ABNORMAL,-14.3872,33,26,3,[ABNORMAL] score=-14.3872 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:20.952974+00:00,223.484,normal_room,ABNORMAL,-13.7945,33,26,4,[ABNORMAL] score=-13.7945 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:43:21.463943+00:00,224.000,normal_room,ABNORMAL,-20.0996,33,26,5,[ABNORMAL] score=-20.0996 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:43:21.943296+00:00,224.469,normal_room,ABNORMAL,-19.8415,33,26,6,[ABNORMAL] score=-19.8415 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:43:22.453928+00:00,224.984,normal_room,ABNORMAL,-22.0093,33,26,7,[ABNORMAL] score=-22.0093 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:43:22.965528+00:00,225.500,normal_room,ABNORMAL,-23.5785,33,26,8,[ABNORMAL] score=-23.5785 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:43:23.444324+00:00,225.984,normal_room,ABNORMAL,-22.5537,33,26,9,[ABNORMAL] score=-22.5537 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:43:23.955024+00:00,226.484,normal_room,ABNORMAL,-22.7605,33,26,10,[ABNORMAL] score=-22.7605 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:43:24.434469+00:00,226.969,normal_room,ABNORMAL,-25.2362,33,26,11,[ABNORMAL] score=-25.2362 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:43:24.945413+00:00,227.484,normal_room,ABNORMAL,-25.003,33,26,12,[ABNORMAL] score=-25.0030 | feat=33ms infer=26ms *** ALERT (12 consecutive) ***
+2026-05-12T12:43:25.455285+00:00,227.984,normal_room,ABNORMAL,-25.2506,33,26,13,[ABNORMAL] score=-25.2506 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:43:25.935456+00:00,228.469,normal_room,ABNORMAL,-25.1996,33,26,14,[ABNORMAL] score=-25.1996 | feat=33ms infer=26ms *** ALERT (14 consecutive) ***
+2026-05-12T12:43:26.446938+00:00,228.984,normal_room,UNCERTAIN,3.3331,33,26,14,[UNCERTAIN] score=3.3331 | feat=33ms infer=26ms *** ALERT (14 consecutive) ***
+2026-05-12T12:43:26.957611+00:00,229.484,normal_room,ABNORMAL,-16.6527,33,26,15,[ABNORMAL] score=-16.6527 | feat=33ms infer=26ms *** ALERT (15 consecutive) ***
+2026-05-12T12:43:27.436848+00:00,229.969,normal_room,ABNORMAL,-17.1463,33,26,16,[ABNORMAL] score=-17.1463 | feat=33ms infer=26ms *** ALERT (16 consecutive) ***
+2026-05-12T12:43:27.947741+00:00,230.484,normal_room,ABNORMAL,-14.7807,33,26,17,[ABNORMAL] score=-14.7807 | feat=33ms infer=26ms *** ALERT (17 consecutive) ***
+2026-05-12T12:43:28.458689+00:00,230.984,normal_room,ABNORMAL,-8.4514,33,26,18,[ABNORMAL] score=-8.4514 | feat=33ms infer=26ms *** ALERT (18 consecutive) ***
+2026-05-12T12:43:29.448352+00:00,231.984,normal_room,ABNORMAL,-16.289,33,26,20,[ABNORMAL] score=-16.2890 | feat=33ms infer=26ms *** ALERT (20 consecutive) ***
+2026-05-12T12:43:29.959683+00:00,232.500,normal_room,ABNORMAL,-22.8465,33,26,21,[ABNORMAL] score=-22.8465 | feat=33ms infer=26ms *** ALERT (21 consecutive) ***
+2026-05-12T12:43:30.439436+00:00,232.969,normal_room,ABNORMAL,-24.5064,32,27,22,[ABNORMAL] score=-24.5064 | feat=32ms infer=27ms *** ALERT (22 consecutive) ***
+2026-05-12T12:43:30.949605+00:00,233.484,normal_room,ABNORMAL,-24.8625,33,26,23,[ABNORMAL] score=-24.8625 | feat=33ms infer=26ms *** ALERT (23 consecutive) ***
+2026-05-12T12:43:31.460601+00:00,234.000,normal_room,ABNORMAL,-20.0923,33,26,24,[ABNORMAL] score=-20.0923 | feat=33ms infer=26ms *** ALERT (24 consecutive) ***
+2026-05-12T12:43:31.940105+00:00,234.469,normal_room,ABNORMAL,-17.8551,32,27,25,[ABNORMAL] score=-17.8551 | feat=32ms infer=27ms *** ALERT (25 consecutive) ***
+2026-05-12T12:43:32.450850+00:00,234.984,normal_room,ABNORMAL,-16.3576,33,26,26,[ABNORMAL] score=-16.3576 | feat=33ms infer=26ms *** ALERT (26 consecutive) ***
+2026-05-12T12:43:32.961474+00:00,235.500,normal_room,ABNORMAL,-18.8071,33,26,27,[ABNORMAL] score=-18.8071 | feat=33ms infer=26ms *** ALERT (27 consecutive) ***
+2026-05-12T12:43:33.440263+00:00,235.969,normal_room,ABNORMAL,-23.0273,32,27,28,[ABNORMAL] score=-23.0273 | feat=32ms infer=27ms *** ALERT (28 consecutive) ***
+2026-05-12T12:43:33.952374+00:00,236.484,normal_room,ABNORMAL,-25.3992,32,27,29,[ABNORMAL] score=-25.3992 | feat=32ms infer=27ms *** ALERT (29 consecutive) ***
+2026-05-12T12:43:34.462491+00:00,237.000,normal_room,ABNORMAL,-25.3967,32,27,30,[ABNORMAL] score=-25.3967 | feat=32ms infer=27ms *** ALERT (30 consecutive) ***
+2026-05-12T12:43:34.942128+00:00,237.469,normal_room,ABNORMAL,-21.0418,32,27,31,[ABNORMAL] score=-21.0418 | feat=32ms infer=27ms *** ALERT (31 consecutive) ***
+2026-05-12T12:43:35.451302+00:00,237.984,normal_room,NORMAL,14.3331,32,27,0,[NORMAL] score=14.3331 | feat=32ms infer=27ms
+2026-05-12T12:43:35.989600+00:00,238.516,normal_room,NORMAL,4.4873,32,27,0,[NORMAL] score=4.4873 | feat=32ms infer=27ms
+2026-05-12T12:43:36.442705+00:00,238.969,normal_room,ABNORMAL,-3.268,33,26,0,[ABNORMAL] score=-3.2680 | feat=33ms infer=26ms
+2026-05-12T12:43:36.953154+00:00,239.484,normal_room,NORMAL,11.2887,32,27,0,[NORMAL] score=11.2887 | feat=32ms infer=27ms
+2026-05-12T12:43:37.464247+00:00,240.000,normal_room,NORMAL,5.271,32,27,0,[NORMAL] score=5.2710 | feat=32ms infer=27ms
+2026-05-12T12:43:37.943184+00:00,240.469,normal_room,UNCERTAIN,-1.0074,33,26,0,[UNCERTAIN] score=-1.0074 | feat=33ms infer=26ms
+2026-05-12T12:43:38.454717+00:00,240.984,normal_room,ABNORMAL,-18.6804,32,27,0,[ABNORMAL] score=-18.6804 | feat=32ms infer=27ms
+2026-05-12T12:43:38.932680+00:00,241.469,normal_room,ABNORMAL,-22.7394,33,26,0,[ABNORMAL] score=-22.7394 | feat=33ms infer=26ms
+2026-05-12T12:43:39.445259+00:00,241.984,normal_room,ABNORMAL,-18.6889,33,26,3,[ABNORMAL] score=-18.6889 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:39.955890+00:00,242.484,normal_room,ABNORMAL,-6.4602,32,27,4,[ABNORMAL] score=-6.4602 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:43:40.435440+00:00,242.969,normal_room,UNCERTAIN,-1.637,33,26,4,[UNCERTAIN] score=-1.6370 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:43:40.946299+00:00,243.484,normal_room,ABNORMAL,-11.7014,33,26,5,[ABNORMAL] score=-11.7014 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:43:41.456565+00:00,243.984,normal_room,ABNORMAL,-25.1793,33,26,6,[ABNORMAL] score=-25.1793 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:43:41.936489+00:00,244.469,normal_room,ABNORMAL,-25.351,33,26,7,[ABNORMAL] score=-25.3510 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:43:42.447793+00:00,244.984,normal_room,ABNORMAL,-25.3448,33,26,8,[ABNORMAL] score=-25.3448 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:43:42.957504+00:00,245.484,normal_room,ABNORMAL,-5.153,33,26,9,[ABNORMAL] score=-5.1530 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:43:43.436956+00:00,245.969,normal_room,ABNORMAL,-6.0928,33,26,10,[ABNORMAL] score=-6.0928 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:43:43.948443+00:00,246.484,normal_room,UNCERTAIN,-0.0537,33,26,10,[UNCERTAIN] score=-0.0537 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:43:44.458051+00:00,246.984,normal_room,ABNORMAL,-24.1062,33,26,11,[ABNORMAL] score=-24.1062 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:43:44.938461+00:00,247.469,normal_room,ABNORMAL,-23.9849,33,26,12,[ABNORMAL] score=-23.9849 | feat=33ms infer=26ms *** ALERT (12 consecutive) ***
+2026-05-12T12:43:45.449692+00:00,247.984,normal_room,ABNORMAL,-13.6116,33,26,13,[ABNORMAL] score=-13.6116 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:43:45.959825+00:00,248.500,normal_room,ABNORMAL,-5.0761,33,26,14,[ABNORMAL] score=-5.0761 | feat=33ms infer=26ms *** ALERT (14 consecutive) ***
+2026-05-12T12:43:46.438118+00:00,248.969,normal_room,NORMAL,8.4202,33,26,0,[NORMAL] score=8.4202 | feat=33ms infer=26ms
+2026-05-12T12:43:46.948932+00:00,249.484,normal_room,NORMAL,5.4424,33,26,0,[NORMAL] score=5.4424 | feat=33ms infer=26ms
+2026-05-12T12:43:47.459839+00:00,250.000,normal_room,NORMAL,8.6196,33,26,0,[NORMAL] score=8.6196 | feat=33ms infer=26ms
+2026-05-12T12:43:47.940121+00:00,250.469,normal_room,NORMAL,9.9933,33,26,0,[NORMAL] score=9.9933 | feat=33ms infer=26ms
+2026-05-12T12:43:48.451016+00:00,250.984,normal_room,NORMAL,6.7363,33,26,0,[NORMAL] score=6.7363 | feat=33ms infer=26ms
+2026-05-12T12:43:48.961038+00:00,251.500,normal_room,ABNORMAL,-7.9971,33,26,0,[ABNORMAL] score=-7.9971 | feat=33ms infer=26ms
+2026-05-12T12:43:49.441032+00:00,251.969,normal_room,ABNORMAL,-18.3818,33,26,0,[ABNORMAL] score=-18.3818 | feat=33ms infer=26ms
+2026-05-12T12:43:49.952943+00:00,252.484,normal_room,ABNORMAL,-2.9347,33,26,3,[ABNORMAL] score=-2.9347 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:50.462491+00:00,253.000,normal_room,NORMAL,25.7104,33,26,0,[NORMAL] score=25.7104 | feat=33ms infer=26ms
+2026-05-12T12:43:50.941209+00:00,253.469,normal_room,UNCERTAIN,-0.5282,33,26,0,[UNCERTAIN] score=-0.5282 | feat=33ms infer=26ms
+2026-05-12T12:43:51.453480+00:00,253.984,normal_room,ABNORMAL,-7.396,33,26,0,[ABNORMAL] score=-7.3960 | feat=33ms infer=26ms
+2026-05-12T12:43:51.964007+00:00,254.500,normal_room,ABNORMAL,-12.6591,33,26,0,[ABNORMAL] score=-12.6591 | feat=33ms infer=26ms
+2026-05-12T12:43:52.443970+00:00,254.984,normal_room,ABNORMAL,-21.527,32,27,3,[ABNORMAL] score=-21.5270 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:52.955548+00:00,255.484,normal_room,ABNORMAL,-18.1379,33,26,4,[ABNORMAL] score=-18.1379 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:43:53.434604+00:00,255.969,normal_room,ABNORMAL,-14.4614,32,27,5,[ABNORMAL] score=-14.4614 | feat=32ms infer=27ms *** ALERT (5 consecutive) ***
+2026-05-12T12:43:53.945257+00:00,256.484,normal_room,ABNORMAL,-13.362,32,27,6,[ABNORMAL] score=-13.3620 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:43:54.456018+00:00,256.984,normal_room,ABNORMAL,-20.4359,33,26,7,[ABNORMAL] score=-20.4359 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:43:54.935487+00:00,257.469,normal_room,ABNORMAL,-23.8143,32,27,8,[ABNORMAL] score=-23.8143 | feat=32ms infer=27ms *** ALERT (8 consecutive) ***
+2026-05-12T12:43:55.446333+00:00,257.984,normal_room,ABNORMAL,-17.1711,33,26,9,[ABNORMAL] score=-17.1711 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:43:55.957084+00:00,258.484,normal_room,ABNORMAL,-4.1119,33,26,10,[ABNORMAL] score=-4.1119 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:43:56.436382+00:00,258.969,normal_room,UNCERTAIN,-1.3586,32,27,10,[UNCERTAIN] score=-1.3586 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:43:56.946163+00:00,259.484,normal_room,NORMAL,18.0842,32,27,0,[NORMAL] score=18.0842 | feat=32ms infer=27ms
+2026-05-12T12:43:57.456737+00:00,259.984,normal_room,ABNORMAL,-8.129,32,27,0,[ABNORMAL] score=-8.1290 | feat=32ms infer=27ms
+2026-05-12T12:43:57.936859+00:00,260.469,normal_room,ABNORMAL,-9.7454,32,27,0,[ABNORMAL] score=-9.7454 | feat=32ms infer=27ms
+2026-05-12T12:43:58.446827+00:00,260.984,normal_room,UNCERTAIN,0.7868,32,27,0,[UNCERTAIN] score=0.7868 | feat=32ms infer=27ms
+2026-05-12T12:43:58.959523+00:00,261.500,normal_room,ABNORMAL,-7.2059,32,27,3,[ABNORMAL] score=-7.2059 | feat=32ms infer=27ms *** ALERT (3 consecutive) ***
+2026-05-12T12:43:59.437900+00:00,261.969,normal_room,ABNORMAL,-10.9884,33,26,4,[ABNORMAL] score=-10.9884 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:43:59.949109+00:00,262.484,normal_room,ABNORMAL,-17.8913,32,27,5,[ABNORMAL] score=-17.8913 | feat=32ms infer=27ms *** ALERT (5 consecutive) ***
+2026-05-12T12:44:00.459739+00:00,263.000,normal_room,ABNORMAL,-5.8044,32,27,6,[ABNORMAL] score=-5.8044 | feat=32ms infer=27ms *** ALERT (6 consecutive) ***
+2026-05-12T12:44:00.939449+00:00,263.469,normal_room,ABNORMAL,-21.5162,33,26,7,[ABNORMAL] score=-21.5162 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:44:01.450844+00:00,263.984,normal_room,ABNORMAL,-19.9413,32,27,8,[ABNORMAL] score=-19.9413 | feat=32ms infer=27ms *** ALERT (8 consecutive) ***
+2026-05-12T12:44:01.961367+00:00,264.500,normal_room,ABNORMAL,-8.5831,32,27,9,[ABNORMAL] score=-8.5831 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:44:02.441007+00:00,264.969,normal_room,ABNORMAL,-10.8367,33,26,10,[ABNORMAL] score=-10.8367 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:44:02.950789+00:00,265.484,normal_room,UNCERTAIN,0.4659,32,27,10,[UNCERTAIN] score=0.4659 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:44:03.461109+00:00,266.000,normal_room,NORMAL,18.2931,32,27,0,[NORMAL] score=18.2931 | feat=32ms infer=27ms
+2026-05-12T12:44:03.940779+00:00,266.469,normal_room,NORMAL,4.7358,33,26,0,[NORMAL] score=4.7358 | feat=33ms infer=26ms
+2026-05-12T12:44:04.452223+00:00,266.984,normal_room,NORMAL,4.509,33,26,0,[NORMAL] score=4.5090 | feat=33ms infer=26ms
+2026-05-12T12:44:04.962484+00:00,267.500,normal_room,NORMAL,4.2048,33,26,0,[NORMAL] score=4.2048 | feat=33ms infer=26ms
+2026-05-12T12:44:05.441352+00:00,267.969,normal_room,ABNORMAL,-12.6916,33,26,0,[ABNORMAL] score=-12.6916 | feat=33ms infer=26ms
+2026-05-12T12:44:05.953270+00:00,268.484,normal_room,ABNORMAL,-7.1113,33,26,0,[ABNORMAL] score=-7.1113 | feat=33ms infer=26ms
+2026-05-12T12:44:06.465077+00:00,269.000,normal_room,ABNORMAL,-9.9494,33,26,3,[ABNORMAL] score=-9.9494 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:44:06.945243+00:00,269.484,normal_room,ABNORMAL,-5.7084,33,26,4,[ABNORMAL] score=-5.7084 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:44:07.454818+00:00,269.984,normal_room,ABNORMAL,-14.1242,33,26,5,[ABNORMAL] score=-14.1242 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:44:07.965568+00:00,270.500,normal_room,ABNORMAL,-24.4699,33,26,6,[ABNORMAL] score=-24.4699 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:44:08.445346+00:00,270.984,normal_room,ABNORMAL,-25.2173,33,26,7,[ABNORMAL] score=-25.2173 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:44:08.955602+00:00,271.484,normal_room,ABNORMAL,-25.2863,33,26,8,[ABNORMAL] score=-25.2863 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:44:09.435512+00:00,271.969,normal_room,ABNORMAL,-15.1308,33,26,9,[ABNORMAL] score=-15.1308 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:44:09.944959+00:00,272.484,normal_room,NORMAL,9.5183,33,26,0,[NORMAL] score=9.5183 | feat=33ms infer=26ms
+2026-05-12T12:44:10.455572+00:00,272.984,normal_room,NORMAL,16.9339,33,26,0,[NORMAL] score=16.9339 | feat=33ms infer=26ms
+2026-05-12T12:44:10.935136+00:00,273.469,normal_room,ABNORMAL,-10.4662,33,26,0,[ABNORMAL] score=-10.4662 | feat=33ms infer=26ms
+2026-05-12T12:44:11.446277+00:00,273.984,normal_room,ABNORMAL,-16.8212,33,26,0,[ABNORMAL] score=-16.8212 | feat=33ms infer=26ms
+2026-05-12T12:44:11.957767+00:00,274.484,normal_room,ABNORMAL,-6.3304,33,26,3,[ABNORMAL] score=-6.3304 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:44:12.437657+00:00,274.969,normal_room,ABNORMAL,-5.7686,33,26,4,[ABNORMAL] score=-5.7686 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:44:12.947823+00:00,275.484,normal_room,ABNORMAL,-17.8882,33,26,5,[ABNORMAL] score=-17.8882 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:44:13.459542+00:00,276.000,normal_room,ABNORMAL,-25.0924,33,26,6,[ABNORMAL] score=-25.0924 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:44:13.937730+00:00,276.469,normal_room,ABNORMAL,-23.716,33,26,7,[ABNORMAL] score=-23.7160 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:44:14.449060+00:00,276.984,normal_room,UNCERTAIN,1.3673,33,26,7,[UNCERTAIN] score=1.3673 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:44:14.959329+00:00,277.500,normal_room,NORMAL,11.8914,33,26,0,[NORMAL] score=11.8914 | feat=33ms infer=26ms
+2026-05-12T12:44:15.438536+00:00,277.969,normal_room,ABNORMAL,-6.1515,32,27,0,[ABNORMAL] score=-6.1515 | feat=32ms infer=27ms
+2026-05-12T12:44:15.949415+00:00,278.484,normal_room,ABNORMAL,-10.0409,33,26,0,[ABNORMAL] score=-10.0409 | feat=33ms infer=26ms
+2026-05-12T12:44:16.460840+00:00,279.000,normal_room,ABNORMAL,-16.4559,33,26,3,[ABNORMAL] score=-16.4559 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:44:16.940252+00:00,279.469,normal_room,ABNORMAL,-18.7446,32,27,4,[ABNORMAL] score=-18.7446 | feat=32ms infer=27ms *** ALERT (4 consecutive) ***
+2026-05-12T12:44:17.451928+00:00,279.984,normal_room,ABNORMAL,-13.5975,33,26,5,[ABNORMAL] score=-13.5975 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:44:17.962578+00:00,280.500,normal_room,ABNORMAL,-12.676,33,26,6,[ABNORMAL] score=-12.6760 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:44:18.441714+00:00,280.969,normal_room,ABNORMAL,-12.3211,32,27,7,[ABNORMAL] score=-12.3211 | feat=32ms infer=27ms *** ALERT (7 consecutive) ***
+2026-05-12T12:44:18.952197+00:00,281.484,normal_room,ABNORMAL,-12.6371,33,26,8,[ABNORMAL] score=-12.6371 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:44:19.462664+00:00,282.000,normal_room,UNCERTAIN,2.6466,33,26,8,[UNCERTAIN] score=2.6466 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:44:19.942884+00:00,282.469,normal_room,ABNORMAL,-23.2897,32,27,9,[ABNORMAL] score=-23.2897 | feat=32ms infer=27ms *** ALERT (9 consecutive) ***
+2026-05-12T12:44:20.453452+00:00,282.984,normal_room,ABNORMAL,-23.1672,32,27,10,[ABNORMAL] score=-23.1672 | feat=32ms infer=27ms *** ALERT (10 consecutive) ***
+2026-05-12T12:44:20.964044+00:00,283.500,normal_room,ABNORMAL,-22.3522,32,27,11,[ABNORMAL] score=-22.3522 | feat=32ms infer=27ms *** ALERT (11 consecutive) ***
+2026-05-12T12:44:21.443447+00:00,283.969,normal_room,ABNORMAL,-21.291,32,27,12,[ABNORMAL] score=-21.2910 | feat=32ms infer=27ms *** ALERT (12 consecutive) ***
+2026-05-12T12:44:21.954425+00:00,284.484,normal_room,ABNORMAL,-20.6418,32,27,13,[ABNORMAL] score=-20.6418 | feat=32ms infer=27ms *** ALERT (13 consecutive) ***
+2026-05-12T12:44:22.465798+00:00,285.000,normal_room,ABNORMAL,-19.893,32,27,14,[ABNORMAL] score=-19.8930 | feat=32ms infer=27ms *** ALERT (14 consecutive) ***
+2026-05-12T12:44:22.945284+00:00,285.484,normal_room,ABNORMAL,-20.9494,33,26,15,[ABNORMAL] score=-20.9494 | feat=33ms infer=26ms *** ALERT (15 consecutive) ***
+2026-05-12T12:44:23.455756+00:00,285.984,normal_room,ABNORMAL,-20.3888,32,27,16,[ABNORMAL] score=-20.3888 | feat=32ms infer=27ms *** ALERT (16 consecutive) ***
+2026-05-12T12:44:23.935319+00:00,286.469,normal_room,ABNORMAL,-8.1784,33,26,17,[ABNORMAL] score=-8.1784 | feat=33ms infer=26ms *** ALERT (17 consecutive) ***
+2026-05-12T12:44:24.445300+00:00,286.984,normal_room,ABNORMAL,-11.6122,33,26,18,[ABNORMAL] score=-11.6122 | feat=33ms infer=26ms *** ALERT (18 consecutive) ***
+2026-05-12T12:44:24.955106+00:00,287.484,normal_room,NORMAL,22.0615,32,27,0,[NORMAL] score=22.0615 | feat=32ms infer=27ms
+2026-05-12T12:44:25.436163+00:00,287.969,normal_room,NORMAL,22.4065,33,26,0,[NORMAL] score=22.4065 | feat=33ms infer=26ms
+2026-05-12T12:44:25.946229+00:00,288.484,normal_room,NORMAL,16.8074,32,27,0,[NORMAL] score=16.8074 | feat=32ms infer=27ms
+2026-05-12T12:44:26.456862+00:00,288.984,normal_room,NORMAL,9.7382,32,27,0,[NORMAL] score=9.7382 | feat=32ms infer=27ms
+2026-05-12T12:44:26.936387+00:00,289.469,normal_room,ABNORMAL,-25.4035,33,26,0,[ABNORMAL] score=-25.4035 | feat=33ms infer=26ms
+2026-05-12T12:44:27.446216+00:00,289.984,normal_room,ABNORMAL,-25.4061,33,26,0,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms
+2026-05-12T12:44:27.959186+00:00,290.500,normal_room,ABNORMAL,-25.4061,33,26,3,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:44:28.438004+00:00,290.969,normal_room,ABNORMAL,-25.4061,33,26,4,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:44:28.948923+00:00,291.484,normal_room,ABNORMAL,-25.4061,33,26,5,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
+2026-05-12T12:44:29.459349+00:00,292.000,normal_room,ABNORMAL,-25.4061,33,26,6,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms *** ALERT (6 consecutive) ***
+2026-05-12T12:44:29.939030+00:00,292.469,normal_room,ABNORMAL,-25.4061,33,26,7,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms *** ALERT (7 consecutive) ***
+2026-05-12T12:44:30.449547+00:00,292.984,normal_room,ABNORMAL,-25.4061,33,26,8,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms *** ALERT (8 consecutive) ***
+2026-05-12T12:44:30.961087+00:00,293.500,normal_room,ABNORMAL,-25.4061,33,26,9,[ABNORMAL] score=-25.4061 | feat=33ms infer=26ms *** ALERT (9 consecutive) ***
+2026-05-12T12:44:31.440295+00:00,293.969,normal_room,ABNORMAL,-25.406,33,26,10,[ABNORMAL] score=-25.4060 | feat=33ms infer=26ms *** ALERT (10 consecutive) ***
+2026-05-12T12:44:31.949668+00:00,294.484,normal_room,ABNORMAL,-25.3964,33,26,11,[ABNORMAL] score=-25.3964 | feat=33ms infer=26ms *** ALERT (11 consecutive) ***
+2026-05-12T12:44:32.461280+00:00,295.000,normal_room,ABNORMAL,-25.3944,33,26,12,[ABNORMAL] score=-25.3944 | feat=33ms infer=26ms *** ALERT (12 consecutive) ***
+2026-05-12T12:44:32.941275+00:00,295.469,normal_room,ABNORMAL,-25.3952,33,26,13,[ABNORMAL] score=-25.3952 | feat=33ms infer=26ms *** ALERT (13 consecutive) ***
+2026-05-12T12:44:33.451935+00:00,295.984,normal_room,ABNORMAL,-24.9233,33,26,14,[ABNORMAL] score=-24.9233 | feat=33ms infer=26ms *** ALERT (14 consecutive) ***
+2026-05-12T12:44:33.962476+00:00,296.500,normal_room,NORMAL,22.1711,33,26,0,[NORMAL] score=22.1711 | feat=33ms infer=26ms
+2026-05-12T12:44:34.441352+00:00,296.969,normal_room,NORMAL,8.5175,33,26,0,[NORMAL] score=8.5175 | feat=33ms infer=26ms
+2026-05-12T12:44:34.952714+00:00,297.484,normal_room,UNCERTAIN,1.1844,33,26,0,[UNCERTAIN] score=1.1844 | feat=33ms infer=26ms
+2026-05-12T12:44:35.462529+00:00,298.000,normal_room,ABNORMAL,-5.0856,33,26,0,[ABNORMAL] score=-5.0856 | feat=33ms infer=26ms
+2026-05-12T12:44:35.942877+00:00,298.469,normal_room,ABNORMAL,-9.1547,33,26,0,[ABNORMAL] score=-9.1547 | feat=33ms infer=26ms
+2026-05-12T12:44:36.454161+00:00,298.984,normal_room,ABNORMAL,-11.5612,33,26,3,[ABNORMAL] score=-11.5612 | feat=33ms infer=26ms *** ALERT (3 consecutive) ***
+2026-05-12T12:44:36.966178+00:00,299.500,normal_room,ABNORMAL,-16.5837,33,26,4,[ABNORMAL] score=-16.5837 | feat=33ms infer=26ms *** ALERT (4 consecutive) ***
+2026-05-12T12:44:37.443946+00:00,299.984,normal_room,ABNORMAL,-13.6818,33,26,5,[ABNORMAL] score=-13.6818 | feat=33ms infer=26ms *** ALERT (5 consecutive) ***
